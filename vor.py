@@ -69,14 +69,14 @@ def word_frequency(wordToFind, authorToReturn=3):
     pid_to_word_frequency = {}
     author_to_word_frequency = {}
     for pid in new_dict.keys():
-        print(pid_to_txt)
+        #print(pid_to_txt)
         if not pid_to_txt[pid] == '':
             with open(pid_to_txt[pid], 'r') as f:
                 for line in f:
-                    words = f.strip().split()
+                    words = line.split()
                     for word in words:
                         if word == wordToFind:
-                            if not pid_to_word_frequency[pid]:
+                            if not pid in pid_to_word_frequency.keys():
                                 pid_to_word_frequency[pid] = 1
                             else:
                                 pid_to_word_frequency[pid] += 1
@@ -84,17 +84,18 @@ def word_frequency(wordToFind, authorToReturn=3):
         for pid1 in pid_to_author_sequence.keys():
             for author in pid_to_author_sequence[pid1]:
                 aid = author['aid']
-                if not author_to_word_frequency[aid]:
-                    author_to_word_frequency[aid] = {
-                        'freq': pid_to_word_frequency[pid1],
-                        'papers': 1
-                    }
-                else:
+                if not aid in author_to_word_frequency.keys() and pid1 in pid_to_word_frequency.keys():
+                    #if pid1 in author_to_word_frequency.keys():
+                        author_to_word_frequency[aid] = {
+                            'freq': pid_to_word_frequency[pid1],
+                            'papers': 1
+                        }
+                elif pid1 in pid_to_word_frequency.keys():
                     author_to_word_frequency[aid]['freq'] += pid_to_word_frequency[pid1]
                     author_to_word_frequency[aid]['papers'] += 1
-
+    print(author_to_word_frequency)
     for author in author_to_word_frequency.keys():
-        print(author + ': ' + author_to_word_frequency[author]['freq'] + author_to_word_frequency[author]['papers'])
+        print(str(author) + ': ' + str(author_to_word_frequency[author]['freq']) + str(author_to_word_frequency[author]['papers']))
 
 
 
