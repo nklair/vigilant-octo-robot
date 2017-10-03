@@ -1,6 +1,7 @@
 #! /usr/bin/python3
 
 pid_to_txt = {}
+new_dict = {}
 pid_to_title_year_conf = {}
 pid_to_keyword = {}
 pid_to_author_sequence = {}
@@ -34,6 +35,10 @@ def load_data():
             pid = split_line[2]
             if pid in pid_to_txt:
                 pid_to_txt[pid] = 'text/' + split_line[0] + '/' + split_line[1] + '.txt'
+        for pid in pid_to_txt.keys():
+            if pid_to_txt[pid] != '':
+                new_dict[pid] = pid_to_txt[pid]
+        #pid_to_txt = new_dict
 
     with open('microsoft/PaperAuthorAffiliations.txt', 'r') as f:
         for line in f:
@@ -60,8 +65,44 @@ def load_data():
             if pid in pid_to_keyword:
                 pid_to_keyword[pid].add(keyword)
 
+def word_frequency(wordToFind, authorToReturn=3):
+    pid_to_word_frequency = {}
+    author_to_word_frequency = {}
+    for pid in new_dict.keys():
+        print(pid_to_txt)
+        if not pid_to_txt[pid] == '':
+            with open(pid_to_txt[pid], 'r') as f:
+                for line in f:
+                    words = f.strip().split()
+                    for word in words:
+                        if word == wordToFind:
+                            if not pid_to_word_frequency[pid]:
+                                pid_to_word_frequency[pid] = 1
+                            else:
+                                pid_to_word_frequency[pid] += 1
+
+        for pid1 in pid_to_author_sequence.keys():
+            for author in pid_to_author_sequence[pid1]:
+                aid = author['aid']
+                if not author_to_word_frequency[aid]:
+                    author_to_word_frequency[aid] = {
+                        'freq': pid_to_word_frequency[pid1],
+                        'papers': 1
+                    }
+                else:
+                    author_to_word_frequency[aid]['freq'] += pid_to_word_frequency[pid1]
+                    author_to_word_frequency[aid]['papers'] += 1
+
+    for author in author_to_word_frequency.keys():
+        print(author + ': ' + author_to_word_frequency[author]['freq'] + author_to_word_frequency[author]['papers'])
+
+
+
 if __name__ == '__main__':
     load_data()
 
     print('Papers: ' + str(len(pid_to_txt)))
     print('Authors: ' + str(len(aid_to_author_name)))
+
+    word_frequency('matrix', 3)
+
