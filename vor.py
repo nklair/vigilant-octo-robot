@@ -65,7 +65,7 @@ def load_data():
             if pid in pid_to_keyword:
                 pid_to_keyword[pid].add(keyword)
 
-def word_frequency(wordToFind, authorToReturn=3):
+def word_frequency(wordToFind, authorsToReturn=3):
     pid_to_word_frequency = {}
     author_to_word_frequency = {}
     for pid in new_dict.keys():
@@ -94,16 +94,41 @@ def word_frequency(wordToFind, authorToReturn=3):
                     author_to_word_frequency[aid]['freq'] += pid_to_word_frequency[pid1]
                     author_to_word_frequency[aid]['papers'] += 1
     print(author_to_word_frequency)
+    highest_use_authors = []
     for author in author_to_word_frequency.keys():
-        print(str(author) + ': ' + str(author_to_word_frequency[author]['freq']) + str(author_to_word_frequency[author]['papers']))
+        if author_to_word_frequency[author]['papers'] >= 3:
+            if len(highest_use_authors) < authorsToReturn:
+                highest_use_authors.append(author)
+            else: #########################
+            # This is all bad and needs to be fixed
+                i = 0
+                while i < authorsToReturn:
+                    a = highest_use_authors[i]
+                    if float(author_to_word_frequency[a]['freq'])/float(author_to_word_frequency[a]['papers']) < float(author_to_word_frequency[author]['freq'])/float(author_to_word_frequency[author]['papers']):
+                        pass
+                        i += 1
+                    else:
+                        break   
+                j = 0
+                while j != i:
+                    pass
+                    j += 1
+
+                for a in highest_use_authors:
+                    if float(author_to_word_frequency[a]['freq'])/float(author_to_word_frequency[a]['papers']) < float(author_to_word_frequency[author]['freq'])/float(author_to_word_frequency[author]['papers']):
+                        highest_use_authors.remove(a)
+
+
+
+        print(str(author) + ': ' + str(author_to_word_frequency[author]['freq']) + ' ' + str(author_to_word_frequency[author]['papers']))
 
 
 
 if __name__ == '__main__':
     load_data()
 
-    print('Papers: ' + str(len(pid_to_txt)))
+    print('Papers: ' + str(len(new_dict)))#pid_to_txt)))
     print('Authors: ' + str(len(aid_to_author_name)))
 
-    word_frequency('matrix', 3)
+    #word_frequency('matrix', 3)
 
