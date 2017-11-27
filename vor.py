@@ -93,36 +93,108 @@ def word_frequency(wordToFind, authorsToReturn=3):
                 elif pid1 in pid_to_word_frequency.keys():
                     author_to_word_frequency[aid]['freq'] += pid_to_word_frequency[pid1]
                     author_to_word_frequency[aid]['papers'] += 1
-    print(author_to_word_frequency)
-    highest_use_authors = []
+    #print(author_to_word_frequency)
+    highest_use_authors = [None]*authorsToReturn
     for author in author_to_word_frequency.keys():
         if author_to_word_frequency[author]['papers'] >= 3:
-            if len(highest_use_authors) < authorsToReturn:
-                highest_use_authors.append(author)
-            else: #########################
+            #if len(highest_use_authors) < authorsToReturn:
+            #    highest_use_authors.append(author)
+            #else: #########################
             # This is all bad and needs to be fixed
-                i = 0
-                while i < authorsToReturn:
-                    a = highest_use_authors[i]
-                    if float(author_to_word_frequency[a]['freq'])/float(author_to_word_frequency[a]['papers']) < float(author_to_word_frequency[author]['freq'])/float(author_to_word_frequency[author]['papers']):
-                        pass
-                        i += 1
-                    else:
-                        break   
-                j = 0
-                while j != i:
-                    pass
-                    j += 1
+            i = 0
+            curr_author = author
+            #print(author)
+            #print(i)
+            #print(author_to_word_frequency[highest_use_authors[i]]['freq'])
+            #print(author_to_word_frequency[highest_use_authors[i]]['papers'])
+            #print(author_to_word_frequency[author]['freq'])
+            #print(author_to_word_frequency[author]['papers'])
+            #print(highest_use_authors[i])
+            #print(highest_use_authors)
+            #if highest_use_authors[i] != None:
+                #print(author_to_word_frequency[highest_use_authors[i]]['freq'])
+                #print(author_to_word_frequency[highest_use_authors[i]]['papers'])
 
-                for a in highest_use_authors:
-                    if float(author_to_word_frequency[a]['freq'])/float(author_to_word_frequency[a]['papers']) < float(author_to_word_frequency[author]['freq'])/float(author_to_word_frequency[author]['papers']):
-                        highest_use_authors.remove(a)
+            while i < authorsToReturn and highest_use_authors[i] != None and float(author_to_word_frequency[highest_use_authors[i]]['freq'])/float(author_to_word_frequency[highest_use_authors[i]]['papers']) > float(author_to_word_frequency[author]['freq'])/float(author_to_word_frequency[author]['papers']):
+                #print(str(i))
+                #print(highest_use_authors[i+1])
+                i += 1
+                
+            if i == authorsToReturn - 1:
+                highest_use_authors[i] = curr_author
+            else:    
+                while i < authorsToReturn - 1:
+                    a = curr_author
+                    curr_author = highest_use_authors[i+1]
+                    highest_use_authors[i] = a
+                    i += 1
 
 
+        #print(str(author) + ': ' + str(author_to_word_frequency[author]['freq']) + ' ' + str(author_to_word_frequency[author]['papers']))
 
-        print(str(author) + ': ' + str(author_to_word_frequency[author]['freq']) + ' ' + str(author_to_word_frequency[author]['papers']))
+    #print(highest_use_authors)
+    return highest_use_authors
+
+def title_length(authorsToReturn=3):
+    pid_to_title_length = {}
+    author_to_title_length = {}
+    for pid in new_dict.keys():
+        #print(pid_to_txt)
+        pid_to_title_length[pid] = len(pid_to_title_year_conf[pid]['title'])
+
+        for pid1 in pid_to_author_sequence.keys():
+            for author in pid_to_author_sequence[pid1]:
+                aid = author['aid']
+                if not aid in author_to_title_length.keys() and pid1 in pid_to_title_length.keys():
+                    #if pid1 in author_to_word_frequency.keys():
+                        author_to_title_length[aid] = {
+                            'freq': pid_to_title_length[pid1],
+                            'papers': 1
+                        }
+                elif pid1 in pid_to_title_length.keys():
+                    author_to_title_length[aid]['freq'] += pid_to_title_length[pid1]
+                    author_to_title_length[aid]['papers'] += 1
+    #print(author_to_word_frequency)
+    highest_use_authors = [None]*authorsToReturn
+    for author in author_to_title_length.keys():
+        if author_to_title_length[author]['papers'] >= 3:
+            #if len(highest_use_authors) < authorsToReturn:
+            #    highest_use_authors.append(author)
+            #else: #########################
+            # This is all bad and needs to be fixed
+            i = 0
+            curr_author = author
+            #print(author)
+            #print(i)
+            #print(author_to_word_frequency[highest_use_authors[i]]['freq'])
+            #print(author_to_word_frequency[highest_use_authors[i]]['papers'])
+            #print(author_to_word_frequency[author]['freq'])
+            #print(author_to_word_frequency[author]['papers'])
+            #print(highest_use_authors[i])
+            #print(highest_use_authors)
+            #if highest_use_authors[i] != None:
+                #print(author_to_word_frequency[highest_use_authors[i]]['freq'])
+                #print(author_to_word_frequency[highest_use_authors[i]]['papers'])
+
+            while i < authorsToReturn and highest_use_authors[i] != None and float(author_to_title_length[highest_use_authors[i]]['freq'])/float(author_to_title_length[highest_use_authors[i]]['papers']) > float(author_to_title_length[author]['freq'])/float(author_to_title_length[author]['papers']):
+                #print(str(i))
+                #print(highest_use_authors[i+1])
+                i += 1
+                
+            if i == authorsToReturn - 1:
+                highest_use_authors[i] = curr_author
+            else:    
+                while i < authorsToReturn - 1:
+                    a = curr_author
+                    curr_author = highest_use_authors[i+1]
+                    highest_use_authors[i] = a
+                    i += 1
 
 
+        #print(str(author) + ': ' + str(author_to_word_frequency[author]['freq']) + ' ' + str(author_to_word_frequency[author]['papers']))
+
+    #print(highest_use_authors)
+    return highest_use_authors
 
 if __name__ == '__main__':
     load_data()
@@ -130,5 +202,8 @@ if __name__ == '__main__':
     print('Papers: ' + str(len(new_dict)))#pid_to_txt)))
     print('Authors: ' + str(len(aid_to_author_name)))
 
-    #word_frequency('matrix', 3)
+    #auth = word_frequency('matrix', 3)
+    auth = title_length(3)
+    for a in auth:
+        print(aid_to_author_name[a])
 
