@@ -5,12 +5,11 @@ def task4(aid_to_author_name, pid_to_author_sequence):
         try:
             print("\nWhich action would you like to take?")
             print("\t1. Frequent author sets")
-            print("\t2. Advisor-advisee relations")
             print("> ", end='', flush=True)
 
             choice = -1
             choice = int(input())
-            if choice < 1 or choice > 2:
+            if choice < 1 or choice > 1:
                 print("Error: Please enter the number corresponding to one of the choices above")
                 continue
             break
