@@ -1,0 +1,242 @@
+text mining,METHOD
+multidimensional scaling,METHOD
+high dimensional data,DATASET
+hyperbolic space,METHOD
+interactive visualization,METHOD
+data analysis,DATASET
+multi dimensional scaling,METHOD
+strategic planning,PROBLEM
+expected value,METHOD
+customer behavior,METHOD
+profitability,METHOD
+return on investment,DATASET
+cross selling,METHOD
+assignment problem,PROBLEM
+data mining,DATASET
+constrained optimization,PROBLEM
+association rule,DATASET
+privacy,DATASET
+outlier detection,METHOD
+knn,METHOD
+lower bound,METHOD
+set theory,METHOD
+computation,METHOD
+databases,DATASET
+evaluation methods,METHOD
+classification,METHOD
+information retrieval,METHOD
+rough set,METHOD
+trajectory,METHOD
+sensor network,METHOD
+cyber physical system,METHOD
+leakage,METHOD
+predictive modeling,METHOD
+prediction model,METHOD
+statistical inference,METHOD
+data management,DATASET
+social network,METHOD
+active learning,METHOD
+deduplication,DATASET
+social influence,METHOD
+random walks,METHOD
+social networks,METHOD
+summarization,METHOD
+maximum entropy,METHOD
+inclusion exclusion,DATASET
+location based services,DATASET
+cold start,METHOD
+recommender system,METHOD
+cell signaling,PROBLEM
+high throughput,METHOD
+statistical significance,METHOD
+false positive rate,METHOD
+complex data,DATASET
+spatial data,DATASET
+software systems,METHOD
+crop yield,PROBLEM
+k means algorithm,DATASET
+kernel method,METHOD
+topic modeling,METHOD
+stochastic optimization,METHOD
+latent dirichlet allocation,METHOD
+genetic algorithm,METHOD
+euclidean distance,METHOD
+simulated annealing,METHOD
+information theory,METHOD
+mutual information,METHOD
+distance metric,METRIC
+architecture,METHOD
+ethics,METHOD
+urban design,DATASET
+sufficient statistics,METHOD
+distributed databases,DATASET
+parameter estimation,METHOD
+feature selection,METHOD
+maximum likelihood estimate,METHOD
+algorithms,METHOD
+gradient descent,METHOD
+delaunay triangulation,PROBLEM
+k means,METHOD
+objective function,METHOD
+string kernel,METHOD
+web service,METHOD
+record linkage,METHOD
+web services,METHOD
+priority queue,METHOD
+natural language processing,METHOD
+random effects,METHOD
+clustering,METHOD
+online advertising,METHOD
+pharmacovigilance,METHOD
+drug safety,METHOD
+post marketing surveillance,METHOD
+adverse event,METHOD
+association rules,DATASET
+adverse reaction,METHOD
+empirical study,METHOD
+decision tree,METHOD
+classification tree,METHOD
+logistic regression,METHOD
+predictive model,METHOD
+logistic regression model,METHOD
+cloud computing,METHOD
+parallel,METHOD
+ranking,METHOD
+document retrieval,METHOD
+parallel algorithm,METHOD
+machine learning,METHOD
+social context,METHOD
+user centered design,METHOD
+computer audition,PROBLEM
+human factors,METHOD
+user interface,METHOD
+user experience,METHOD
+website testing,PROBLEM
+design,METHOD
+search engine,METHOD
+real time,METHOD
+automation,METHOD
+expectation maximization,METHOD
+em algorithm,DATASET
+business intelligence,DATASET
+mixture models,METHOD
+mixture model,METHOD
+user generated content,METHOD
+generative model,METHOD
+global optimization,METHOD
+probabilistic algorithm,METHOD
+network model,METHOD
+service provider,METHOD
+artificial neural networks,METHOD
+interpretation,METHOD
+domain expert,METHOD
+knowledge discovery,DATASET
+gps,DATASET
+land use,METHOD
+data quality,DATASET
+data cube,DATASET
+baselines,METHOD
+payment cards,PROBLEM
+change detection,METHOD
+information extraction,METHOD
+knowledgebase,METHOD
+bayesian approach,METHOD
+hierarchical clustering,METHOD
+process model,METHOD
+data flow,DATASET
+process control,DATASET
+structured data,DATASET
+workflow management system,METHOD
+process mining,METHOD
+recommender systems,METHOD
+iterative algorithm,METHOD
+unified model,METHOD
+collaborative filtering,METHOD
+neural network,METHOD
+boosting,METHOD
+ensemble learning,METHOD
+semi supervised learning,METHOD
+personalization,METHOD
+model building,METHOD
+data structure,DATASET
+data preprocessing,DATASET
+transaction data,DATASET
+clickstream data,DATASET
+bayesian network,METHOD
+social media,METHOD
+business value,METHOD
+causal inference,METHOD
+business analytics,METHOD
+event study,METHOD
+counterfactual,METHOD
+transfer learning,METHOD
+vertex cover,PROBLEM
+free energy,METHOD
+computational biology,METHOD
+complex network,METHOD
+amino acid,METHOD
+eigenvectors,METHOD
+graph theory,METHOD
+protein structure,DATASET
+set covering problem,PROBLEM
+greedy algorithm,METHOD
+set cover,PROBLEM
+statistical model,METHOD
+agent,METHOD
+xml schema,METHOD
+programming language,METHOD
+development environment,METHOD
+rfid,DATASET
+radio frequency,METHOD
+radio frequency identification,METHOD
+loss function,METHOD
+function space,METHOD
+bagging,METHOD
+data visualization,DATASET
+internet,METHOD
+web pages,METHOD
+web,METHOD
+support vector machines,METHOD
+chemoinformatics,DATASET
+knowledge base,METHOD
+fuzzy set,METHOD
+expert system,METHOD
+expressive power,METHOD
+breast cancer,DATASET
+fuzzy logic,METHOD
+optimization,METHOD
+membership function,METHOD
+generic algorithm,METHOD
+categorical data,DATASET
+conditional independence,METHOD
+algorithm design and analysis,PROBLEM
+social science,METHOD
+hidden markov model,METHOD
+news analysis,METHOD
+ethnic group,DATASET
+image retrieval,METHOD
+feature vector,METHOD
+branch and bound algorithm,METHOD
+visual analytics,DATASET
+process design,METHOD
+evaluation,METHOD
+decision trees,METHOD
+differential privacy,DATASET
+data access,DATASET
+feature space,METHOD
+support vector machine,METHOD
+world wide web,METHOD
+source code,METHOD
+mobius,PROBLEM
+reciprocity,METHOD
+compression,METHOD
+probabilistic model,METHOD
+association analysis,METHOD
+intelligence analysis,METHOD
+noise reduction,METHOD
+protein function prediction,METHOD
+biological data,DATASET
+naive bayes,METHOD
+selection effect,METHOD
+recommendation systems,METHOD
+semi structured data,DATASET

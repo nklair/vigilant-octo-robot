@@ -1,7 +1,10 @@
 import task1
+import task2
+import task3
 import task4
 import task6
 import task7
+import task5
 
 pid_to_txt = {}
 new_dict = {}
@@ -96,12 +99,24 @@ if __name__ == '__main__':
         # Perform the correct task based on the choice of the user
         if choice == 1:
             task1.task1(new_dict, pid_to_author_sequence, pid_to_title_year_conf, aid_to_author_name)
+        elif choice ==2:
+            phrases = {}
+            for pid in pid_to_keyword:
+                for word in pid_to_keyword[pid]:
+                    if word not in phrases.keys():
+                            phrases[word] = []
+                    phrases[word].append(pid_to_keyword)
+            task2.task2(phrases, new_dict)
+        elif choice == 3:
+            task3.task3(new_dict)
         elif choice == 4:
             task4.task4(aid_to_author_name, pid_to_author_sequence)
         elif choice == 6:
             task6.task6(pid_to_title_year_conf, pid_to_keyword, pid_to_author_sequence)
         elif choice == 7:
             task7.task7(pid_to_title_year_conf, pid_to_keyword, pid_to_author_sequence)
+        elif choice == 5:
+            task5.task5(pid_to_keyword)
         elif choice == 8:
             break
         else:
