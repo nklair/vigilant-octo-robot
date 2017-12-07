@@ -1,0 +1,4654 @@
+text mining,774
+multidimensional scaling,57
+high dimensional data,938
+hyperbolic space,16
+interactive visualization,60
+data analysis,1002
+multi dimensional scaling,25
+strategic planning,1
+expected value,515
+customer behavior,84
+profitability,134
+return on investment,62
+cross selling,58
+assignment problem,82
+data mining,7429
+constrained optimization,227
+association rule,3256
+privacy,6504
+outlier detection,976
+knn,103
+lower bound,1941
+set theory,29
+computation,13997
+databases,5059
+evaluation methods,101
+classification,22933
+information retrieval,3243
+rough set,54
+trajectory,1000
+sensor network,312
+cyber physical system,28
+leakage,211
+predictive modeling,151
+prediction model,733
+statistical inference,92
+data management,239
+social network,12632
+active learning,2030
+deduplication,148
+social influence,827
+random walks,806
+social networks,6037
+summarization,2466
+maximum entropy,507
+inclusion exclusion,14
+location based services,98
+cold start,666
+recommender system,2320
+cell signaling,0
+high throughput,109
+statistical significance,452
+false positive rate,485
+complex data,239
+spatial data,513
+software systems,85
+crop yield,0
+k means algorithm,280
+kernel method,244
+topic modeling,742
+stochastic optimization,59
+latent dirichlet allocation,77
+genetic algorithm,211
+euclidean distance,32
+simulated annealing,121
+information theory,187
+mutual information,1020
+distance metric,856
+architecture,4358
+ethics,99
+urban design,1
+sufficient statistics,259
+distributed databases,62
+parameter estimation,424
+feature selection,3320
+maximum likelihood estimate,197
+algorithms,29650
+gradient descent,975
+delaunay triangulation,1
+k means,1726
+objective function,3432
+string kernel,95
+web service,1810
+record linkage,312
+web services,981
+priority queue,190
+natural language processing,447
+random effects,116
+clustering,28724
+online advertising,404
+pharmacovigilance,34
+drug safety,29
+post marketing surveillance,2
+adverse event,37
+association rules,2135
+adverse reaction,7
+empirical study,468
+decision tree,3219
+classification tree,119
+logistic regression,1858
+predictive model,900
+logistic regression model,310
+cloud computing,88
+parallel,5264
+ranking,18585
+document retrieval,296
+parallel algorithm,150
+machine learning,4218
+social context,338
+user centered design,13
+computer audition,0
+human factors,44
+user interface,1417
+user experience,752
+website testing,0
+design,15513
+search engine,11361
+real time,2305
+automation,321
+expectation maximization,124
+em algorithm,108
+business intelligence,89
+mixture models,451
+mixture model,1455
+user generated content,347
+generative model,1088
+global optimization,87
+probabilistic algorithm,25
+network model,288
+service provider,834
+artificial neural networks,33
+interpretation,2565
+domain expert,796
+knowledge discovery,749
+gps,80
+land use,46
+data quality,227
+data cube,208
+baselines,1938
+payment cards,0
+change detection,259
+information extraction,1115
+knowledgebase,89
+bayesian approach,31
+hierarchical clustering,780
+process model,389
+data flow,257
+process control,25
+structured data,1015
+workflow management system,12
+process mining,12
+recommender systems,1598
+iterative algorithm,311
+unified model,151
+collaborative filtering,2321
+neural network,1057
+boosting,1457
+ensemble learning,98
+semi supervised learning,723
+personalization,1874
+model building,96
+data structure,1806
+data preprocessing,81
+transaction data,569
+clickstream data,73
+bayesian network,129
+social media,4128
+business value,62
+causal inference,46
+business analytics,11
+event study,3
+counterfactual,41
+transfer learning,806
+vertex cover,50
+free energy,30
+computational biology,84
+complex network,520
+amino acid,92
+eigenvectors,1009
+graph theory,173
+protein structure,70
+set covering problem,33
+greedy algorithm,1114
+set cover,373
+statistical model,623
+agent,4388
+xml schema,7
+programming language,436
+development environment,74
+rfid,6
+radio frequency,6
+radio frequency identification,3
+loss function,1718
+function space,48
+bagging,584
+data visualization,113
+internet,1345
+web pages,4116
+web,48557
+support vector machines,899
+chemoinformatics,24
+knowledge base,2486
+fuzzy set,172
+expert system,146
+expressive power,188
+breast cancer,240
+fuzzy logic,37
+optimization,9209
+membership function,50
+generic algorithm,34
+categorical data,273
+conditional independence,218
+algorithm design and analysis,0
+social science,226
+hidden markov model,101
+news analysis,21
+ethnic group,20
+image retrieval,455
+feature vector,2402
+branch and bound algorithm,44
+visual analytics,45
+process design,18
+evaluation,15200
+decision trees,1218
+differential privacy,520
+data access,215
+feature space,2052
+support vector machine,1258
+world wide web,367
+source code,581
+mobius,1
+reciprocity,324
+compression,2989
+probabilistic model,1266
+association analysis,58
+intelligence analysis,23
+noise reduction,35
+protein function prediction,52
+biological data,104
+naive bayes,88
+selection effect,19
+recommendation systems,389
+semi structured data,163
+association rule mining,562
+feature engineering,95
+trial and error,112
+upper bound,2797
+data warehouse,184
+synthetic data,2166
+sequential pattern mining,172
+combinatorics,25
+topic model,3526
+opinion mining,314
+web usage mining,68
+data collection,937
+web personalization,27
+load balance,99
+random graph,543
+time series data,824
+time series,7197
+topic modelling,40
+game design,16
+convex combination,128
+convex optimization,361
+natural frequency,3
+time complexity,1585
+finite element,28
+complex structure,112
+regression model,1246
+relational learning,240
+active set algorithm,30
+nonnegative matrix factorization,216
+information bottleneck,104
+natural language,1341
+native language,73
+lexicographic order,114
+prediction,18662
+markov model,140
+amino acids,33
+sequence analysis,59
+anomaly detection,1079
+particle swarm optimization,2
+quantization error,45
+graphs,16049
+cost effectiveness,18
+information cascades,139
+gibbs sampling,30
+parallel computer,4
+expectation maximization algorithm,25
+data cleansing,28
+simple random sampling,21
+sample size,1395
+rfid tag,0
+estimation,6436
+business process,357
+big data,288
+deep learning,215
+neural networks,574
+semi definite programming,38
+knowledge based system,21
+concept formation,7
+conceptual clustering,44
+relevance,10638
+click through rate,577
+behavior modeling,33
+sensitivity analysis,128
+relative risk,69
+query optimization,126
+resource utilization,28
+three dimensions,113
+intrinsic dimension,125
+vectors,8145
+text analysis,288
+non negative matrix factorization,253
+matrix decomposition,101
+image resolution,7
+semantics,4210
+text summarization,157
+image fusion,0
+sparse matrices,68
+nmf,101
+covariance matrix,730
+dimensionality reduction,683
+pca,193
+principal component analysis,152
+approximation error,179
+difference set,4
+model selection,517
+data envelope analysis,0
+spectral clustering,888
+unsupervised learning,372
+reproducing kernel hilbert space,4
+point source,3
+laplace operator,0
+neumann boundary condition,0
+random walk,3331
+attribute selection,42
+missing values,852
+transformation,3591
+encoding,1990
+dependence analysis,2
+exploratory data analysis,83
+scientific method,8
+relational database management system,22
+relational database,660
+breadth first search,213
+relational databases,301
+cold start problem,193
+web mining,159
+satisfiability,166
+latent semantic indexing,158
+social studies,12
+search space,1189
+complex networks,416
+e commerce,813
+collaboration,1592
+indexes,1131
+root mean square error,52
+mean absolute error,80
+electronic commerce,86
+benchmark testing,1
+hafnium,0
+indexation,10
+momentum,72
+technical stock analysis,0
+dicom,9
+hardware,771
+servers,3260
+pacs,0
+storage system,56
+ultrasound,7
+data processing,322
+ontology,6416
+col,52318
+mobile network,90
+mobile device,889
+word of mouth,304
+dynamic programming algorithm,144
+mobile communication,54
+simulation,2450
+throughput,1168
+switches,184
+information entropy,20
+adaptation,1820
+resource allocation,128
+concept drift,566
+noise,6524
+feature extraction,601
+natural disaster,87
+reverse engineering,57
+3d graphics,0
+system monitoring,21
+support vector,1780
+customer relationship management,27
+markov decision process,9
+customer life time value,0
+crm,28
+reinforcement learning,178
+community structure,1150
+class,85728
+networks,21499
+neural net,1197
+roc analysis,14
+level of detail,93
+forecasting,989
+tensor analysis,87
+classification system,172
+data cleaning,192
+information system,440
+database management system,74
+algorithm,92580
+artificial intelligence,157
+inference rule,83
+medical coding,9
+medical records,56
+l1 regularization,21
+similarity search,573
+temporal data,359
+rule based,608
+image compression,27
+singular value decomposition,256
+tensor product,105
+vector space,748
+dimension reduction,238
+learning difficulty,2
+patterns,22275
+variation,4459
+performance,35431
+class variable,95
+cross entropy,201
+concept learning,44
+learning artificial intelligence,0
+linear classification,168
+data security,10
+two dimensions,157
+data privacy,47
+arma model,1
+moving average,145
+wavelet analysis,7
+wavelet transform,86
+data handling,14
+electronic media,603
+information age,22
+trend analysis,50
+hashing,1472
+factor analysis,134
+ground truth,3035
+genetic algorithms,75
+risk assessment,61
+invasive species,33
+decision support,126
+probability distribution,1953
+identification,2717
+majority vote,144
+automotive industry,9
+correlation,10952
+case based reasoning,60
+fuzzy set theory,3
+customer satisfaction,70
+predictive analytics,20
+control group,244
+market segmentation,38
+lattices,125
+algorithm design,97
+closures,252
+closure operator,26
+bioinformatics,345
+permutation test,60
+genome wide association study,17
+biomedical research,25
+single nucleotide polymorphism,3
+family wise error rate,5
+survival analysis,71
+one class classification,38
+transcription factor binding site,4
+service sector,1
+online algorithm,237
+computational linguistics,52
+memory management,39
+data clustering,248
+opinions,2288
+subjective logic,3
+evidence,3617
+computational complexity,739
+transition probability,495
+divide and conquer,133
+work in process,1
+microblogging,503
+microarray data analysis,19
+gene expression,820
+gene selection,69
+microarray data,275
+optimization problem,2686
+supervised learning,2466
+graphics hardware,3
+gpgpu,0
+international development,0
+system management,44
+adverse effect,37
+autoregressive model,65
+predictive models,371
+ocean ecosystem,0
+aquaculture,2
+autoregression,40
+wavelet transforms,12
+time series analysis,167
+time frequency analysis,0
+tree structure,899
+convergence rate,332
+image annotation,219
+embryos,15
+kernel density estimate,51
+computer science,662
+arsenic,52
+analytics,848
+smart grid,13
+bayesian inference,24
+cost function,708
+leave one out cross validation,43
+knowledge representation,204
+random forests,173
+web server,923
+application server,293
+casting,1518
+finite element analysis,0
+shearing,4
+shear deformation,0
+g,3295005
+graph,75121
+semantic similarity,540
+first principle,27
+computational semantics,2
+sports,982
+management system,468
+ensemble,3369
+representation,11495
+linear models,453
+myocardial infarct,20
+design method,64
+production system,119
+quality control,127
+partial discharge,0
+histograms,648
+color histogram,106
+discrete optimization,43
+computer model,12
+fitness function,63
+narrative structure,12
+topic models,1533
+bayesian networks,64
+internet marketing,5
+network analysis,705
+heterogeneous network,362
+data integrity,25
+term frequency,486
+inverse document frequency,183
+field programmable gate array,0
+dynamic web,159
+web search engine,757
+bipartite graph,1296
+graph cut,91
+database,18387
+human genome,22
+controlled vocabulary,81
+sampling methods,223
+statistical test,339
+singular integral,0
+sample selection bias,119
+critical success factor,3
+social network analysis,379
+space complexity,324
+relational data,1440
+centrality,1449
+betweenness centrality,352
+image classification,224
+qualitative analysis,105
+domain knowledge,1013
+behavior analysis,60
+hierarchical cluster analysis,8
+missing data,530
+serial analysis of gene expression,0
+pattern recognition,225
+partial order,490
+belief propagation,144
+locality sensitive hashing,88
+system architecture,241
+multiobjective optimization,10
+knapsack problem,108
+quantum computer,8
+linear programming,262
+query by example,21
+distance function,953
+local minima,169
+linear program,469
+digital library,109
+spread spectrum,0
+randomized experiment,71
+randomized experiments,40
+polynomial time,616
+kl divergence,0
+news,11732
+coherence,686
+health care,206
+conditional random field,186
+content analysis,227
+graphical model,1026
+vulnerabilities,667
+side effect,482
+buffer overflow,44
+exploits,1088
+svm,705
+document clustering,475
+adjacency matrix,899
+lifetime value,19
+customer lifetime value,6
+neural network model,41
+multi class classification,163
+pattern matching,407
+hidden markov models,67
+semiconductor manufacturing,18
+linear regression,873
+kernel function,606
+nonparametric regression,12
+regression,8047
+scientific computing,19
+multidimensional database,12
+power law distribution,419
+visual programming,21
+software development,145
+open systems,6
+graphical interface,37
+xml language,0
+social ties,309
+network dynamics,76
+social interaction,551
+seasonality,186
+multi task learning,357
+lasso,520
+deep packet inspection,4
+real time data,54
+traffic flow,119
+command and control,22
+bootstrap,1131
+image,20626
+gmm,32
+log likelihood,1427
+depth first search,202
+perturbation analysis,6
+spectral method,122
+connected component,1217
+graph partitioning,553
+laplacian matrix,4
+second order,406
+region of interest,58
+evaluation function,173
+intrusion detection,385
+heuristic algorithm,211
+viral marketing,454
+group behavior,35
+change management,35
+information technology,80
+nearest neighbor,2570
+coordinate system,61
+manifold learning,76
+graph connectivity,44
+visual analysis,36
+directed graph,1468
+cultural artifacts,7
+image processing,178
+additive model,159
+generalized additive model,35
+scheduling,713
+ant colony optimization,1
+scheduling problem,43
+direct method,79
+p2p,209
+decision models,23
+investor profile,20
+quantitative analysis,130
+analysis of variance,25
+artificial intelligent,1
+fuzzy neural network,1
+manufacturing industry,1
+competitive advantage,35
+response surface methodology,0
+visualization,3222
+multi objective optimization,30
+long tail,505
+mcmc,14
+virtual environment,38
+cost estimation,16
+unbiased estimator,148
+bayesian learning,6
+gravity model,36
+conformity,234
+stability,1318
+online algorithms,78
+sparsity,2211
+international relations,16
+reproducibility,80
+matrix factorization,2098
+power law,1874
+internet traffic,10
+error threshold,70
+empirical evidence,148
+software engineering,194
+cross validation,2203
+co clustering,832
+scalability,2477
+dataflow,94
+program design,4
+linear time,716
+local search,376
+least square,918
+nonnegative matrix,316
+clustering coefficient,813
+meteorology,38
+neuroscience,50
+internet protocol,1
+3 dimensional,86
+3d display,0
+2 dimensional,251
+visualisation,140
+clustering algorithms,1338
+cluster analysis,138
+clustering analysis,50
+marketing strategy,74
+classification algorithms,415
+personalized marketing,2
+ndcg,46
+cumulant,33
+eye tracking,177
+drug discovery,40
+random matrix,48
+power method,109
+dynamic programming,639
+minimum description length,103
+data streams,1217
+ensemble methods,134
+sliding window,748
+normal form,144
+decomposition,3132
+chemical structure,26
+martingale,24
+randomized algorithms,40
+latent variable,1057
+bayesian information criterion,0
+competitive learning,19
+web content mining,12
+decision rule,276
+edge detection,15
+digital media,36
+region growing,13
+aggregation,3159
+knowledge based systems,15
+data retrieval,57
+digital marketing,0
+targeting,1320
+applications,15616
+advertising,3208
+em,486954
+internet threats,1
+traffic engineering,8
+botnets,36
+traffic classification,21
+network security,21
+feedback,5665
+game theory,72
+contract theory,0
+trust,7149
+adverse selection,3
+stochastic processes,44
+law of large numbers,23
+stochastic process,174
+temporal logic,60
+data generation,253
+overfitting,771
+random forest,382
+stock exchange,22
+science and technology,37
+bayes classifier,19
+k nearest neighbor,443
+entity resolution,179
+spatial data analysis,1
+secure multi party computation,6
+information visualization,59
+dendrogram,442
+trading strategy,16
+data models,180
+planning,888
+human interaction,94
+point of sale,19
+retail,766
+security,2941
+spatial database,165
+spatial relationships,45
+signature,2648
+social distance,39
+information processing,200
+paradigm shift,50
+sentiment analysis,609
+database management,87
+risk factor,104
+risk factors,88
+model category,2
+financial market,43
+food processing industry,0
+transportation,473
+food security,0
+petri net,10
+petri nets,5
+food safety,3
+hazards,153
+haccp,0
+production,1314
+security management,2
+public health,203
+signal peptide,3
+protein sequence,76
+g protein,167
+parameter space,253
+network topology,263
+space time,120
+network management system,6
+native advertising,11
+solar system,9
+false,5366
+software maintenance,16
+state transition,297
+stochastic gradient descent,309
+gradient descent method,107
+secure multiparty computation,5
+genetics,84
+first order logic,134
+genetic operator,23
+data gathering,65
+low frequency,172
+visual system,16
+age groups,108
+computing,6648
+projection pursuit regression,0
+public transport,133
+activation function,73
+optimal design,23
+shift invariant,21
+convolution,325
+bayesian methods,2
+competitors,614
+likelihood function,387
+attack models,39
+helium,4
+finite element method,2
+finite element methods,0
+minimization,1113
+surface reconstruction,0
+computational modeling,1
+interpolation,357
+steepest descent method,6
+user modeling,196
+user model,595
+training data,6080
+accuracy,17264
+intrusion detection system,68
+gaussian processes,37
+testing,5341
+intrusion detection systems,38
+gaussian mixture model,24
+binary classification,656
+marketing segments,1
+visual search,99
+sparse data,378
+data warehousing,46
+data aggregation,48
+hypothesis test,328
+filtering,6113
+logistic model,83
+tdt,37
+language model,2248
+stream processing,101
+k means clustering,362
+electrical network,27
+pattern language,38
+path planning,2
+modeling,8042
+motivation,1498
+crowdsourcing,1340
+incentives,383
+goodness of fit,127
+regression equation,25
+data integration,292
+distributed computing,136
+data confidentiality,9
+nlp,141
+appraisal,66
+mathematical model,141
+data envelopment analysis,0
+joint distribution,450
+dependency graph,91
+gene sequencing,1
+cell cycle,68
+oncology,9
+top down,588
+bottom up,540
+convolution kernel,17
+relation extraction,264
+pixel,1585
+image recognition,48
+skin,1314
+filter,11220
+text clustering,179
+gold standard,684
+decision tree learning,83
+formal concept analysis,18
+exhaustive search,253
+random variable,1735
+complex system,136
+causality,377
+competitor analysis,12
+intellectual property,31
+very large database,95
+hidden variables,284
+indexing,2580
+amino acid sequence,36
+functional genomics,14
+molecular biology,56
+supply chains,12
+information and communication technologies,17
+risk management,48
+risk,4036
+organizations,971
+risk analysis,12
+information systems,279
+data stream mining,26
+incremental development,1
+social communication,33
+social groups,124
+quality of life,11
+personalized medicine,9
+expander graph,15
+sampling technique,222
+collaborative learning,22
+knowledge management,352
+business,4716
+professional development,6
+groupware,47
+technologies,1906
+electronic learning,1
+space technology,1
+confidence level,375
+decision tree classifier,137
+classification rule,275
+workforce analytics,1
+human resources,32
+information content,200
+dna microarray,5
+associative memory,10
+biological process,74
+drug development,7
+metabolic pathway,24
+gene network,39
+limiting factor,32
+streaming algorithm,194
+streaming algorithms,96
+market research,53
+meta analysis,27
+confounding,134
+external validity,9
+policy analysis,8
+mediation,151
+hill climbing,172
+heuristic search,67
+geographic information system,24
+data consistency,17
+genetic marker,11
+gene mapping,12
+hyperparameter optimization,16
+organizational structure,49
+information flow,489
+fourier analysis,0
+k nearest neighbors,231
+information gain,754
+probability distribution function,38
+noise measurement,1
+consumer behavior,63
+semidefinite programming,103
+direct marketing,106
+measurement,3986
+matrix multiplication,165
+simulation model,52
+simulation experiment,56
+search algorithm,617
+economic model,27
+sequence mining,121
+word segmentation,45
+dictionaries,450
+private sector,36
+data model,1049
+bayesian classifier,24
+minimum cut,130
+knowledge extraction,63
+integrity constraints,64
+conceptual schema,31
+exponential growth,60
+market basket analysis,58
+benchmark,2842
+affinity analysis,2
+regularization,3317
+wireless sensor network,54
+wireless communication,24
+self organization,15
+cost efficiency,14
+ordinary least square,32
+sum of squares,72
+multilayer perceptron,27
+computational intelligence,18
+directed acyclic graph,185
+hierarchies,1094
+kernel methods,163
+regression analysis,147
+neural nets,76
+time series forecasting,49
+generalization error,151
+empirical risk minimization,37
+structural risk minimization,13
+minimisation,10
+time series prediction,59
+nonlinear regression,16
+support vector regression,71
+sequence database,139
+depth first,484
+case base reasoning,1
+programming,3478
+feature learning,187
+forensic science,1
+conditional random fields,146
+telecommunications,91
+credit rating,23
+human computer interface,6
+recursive data structure,3
+kernel density estimation,125
+spatial,5323
+probabilistic methods,32
+information security,25
+anonymity,857
+markov chain,92
+prior distribution,361
+posterior distribution,608
+time series model,91
+artificial neural network,64
+spatial correlation,47
+microblog,1143
+wireless local area network,1
+wireless network,156
+graph diameter,11
+parallel algorithms,71
+approximation,6852
+drug design,13
+cellular network,49
+scale free,276
+speech processing,16
+speech,1493
+orthogonality,136
+negentropy,1
+nbf,0
+spectrogram,55
+audio signal,95
+audio signal processing,4
+independent component analysis,29
+link analysis,478
+markov chains,41
+cutting plane,146
+database system,336
+network effect,166
+finite mixture model,61
+multi document summarization,72
+kernel regression,22
+drug therapy,5
+intelligibility,26
+healthcare,418
+additive models,77
+shape,3612
+extreme value statistics,7
+statistics,5351
+decision support system,37
+disaster management,71
+medical history,16
+zero knowledge proof,0
+medical diagnosis,35
+behavior change,54
+random access,205
+optimal estimation,5
+state space model,54
+human perception,57
+business rules,51
+roi,3636
+protein protein interaction,158
+interaction network,377
+weather forecasting,24
+electronic publishing,2
+new media,37
+user interfaces,299
+mashups,230
+citation analysis,55
+decision theory,30
+value of information,22
+uncertainty,1764
+information value,51
+product development,18
+capacity,1309
+linear equations,106
+parallel computing,60
+prediction error,378
+linear transformation,119
+kernel,8441
+gibbs sampler,9
+logic design,0
+field programmable gate arrays,0
+codecs,4
+floating point arithmetic,3
+deep web,244
+attribution,268
+malware,1137
+graph matching,157
+distance learning,83
+structure,32178
+emergent behavior,5
+structural similarity,141
+outliers,3183
+sparse matrix,216
+low rank approximation,252
+convex hull,305
+grid,2744
+dimensionality,2965
+poisson regression,4
+point process,165
+parametric model,232
+distributions,8007
+transportation problem,12
+kullback leibler divergence,1
+data storage,122
+computer vision,295
+distributed systems,229
+pattern,37385
+template matching,39
+duty cycle,4
+learning to rank,681
+file sharing,110
+programming model,199
+code generation,45
+oltp,1
+object oriented,208
+component model,156
+olap,42
+convergence,3291
+data parallelism,25
+synchronization,810
+theory,3752
+non homogeneous poisson process,0
+poisson distribution,5
+curse of dimensionality,222
+context dependent,125
+kernel trick,80
+projective space,0
+supply chain,74
+posterior probability,459
+random sampling,494
+hyperlinks,966
+stochastic model,87
+plsa,8
+mobile computer,2
+location based service,115
+speech recognition,247
+automatic summarization,20
+poisson,73
+automobile industry,7
+product design,32
+marketing,2089
+automotive engineering,0
+web 2 0,0
+higher order,436
+automatic image annotation,23
+stratification,157
+sampling,9842
+national security,26
+financial services,26
+life cycle,207
+credit risk,10
+data compression,147
+confounding factor,40
+voting behavior,42
+self organizing map,79
+investment,786
+fundamental analysis,1
+technical analysis,6
+investments,136
+actions,17111
+cross section,66
+gene cluster,112
+network,59210
+marketing mix,3
+nystrom method,4
+least squares support vector machine,7
+statistical analysis,238
+pragmatics,36
+use case,703
+terrorism,94
+owl,29538
+construction industry,0
+ontologies,2191
+web ontology language,30
+naive bayes classifier,15
+variance reduction,136
+grid computing,19
+sparse representation,89
+skewed distribution,139
+behavioral targeting,137
+poisson regression model,0
+demand management,0
+dynamic network analysis,5
+evolution,4185
+cost analysis,14
+stress,568
+force,4253
+shear stress,0
+numerical simulation,11
+shear force,0
+strain,20752
+numerical analysis,13
+materials,424
+graphical models,360
+partial correlation,69
+causal modeling,52
+causal models,24
+linear model,1105
+gaussian distribution,34
+probabilistic latent semantic analysis,49
+bayesian statistics,0
+latent semantic analysis,219
+acute myocardial infarction,9
+quality assurance,50
+colon cancer,24
+treatment effect,246
+computational statistics,2
+representations,2640
+noun phrase,457
+variable selection,232
+principal components analysis,20
+remote sensing,96
+microbiology,7
+pattern analysis,77
+evolutionary programming,7
+premature convergence,7
+bayesian analysis,16
+oscillations,56
+dependency parsing,46
+maximization,1514
+density estimation,396
+bulletin board system,7
+gaussian mixture models,13
+confusion matrix,192
+discrimination learning,0
+wikipedia,997
+face recognition,149
+maximum entropy model,159
+regression tree,294
+language identification,54
+medical informatics,22
+data reduction,141
+sparse coding,121
+information integration,91
+string matching,170
+odd ratio,10
+risk ratio,7
+equivalence classes,193
+noise filtering,29
+heat exchangers,1
+heat recovery,0
+heat exchanger,1
+heat engines,0
+temperature measurement,6
+heat transfer,2
+ventilation,6
+operant conditioning,0
+test methods,12
+heat pipes,0
+air conditioning,9
+heat transfer coefficient,0
+thermal resistance,0
+heat pipe,0
+gsm,82
+communication protocol,75
+protocols,937
+global positioning system,8
+mobile computing,46
+communication networks,137
+network visualization,29
+system performance,261
+backpropagation,44
+fingerprint identification,0
+minutiae points,0
+fingerprint recognition,0
+perplexity,812
+graph rewriting,46
+biological activity,1
+structural change,77
+biological network,192
+conditional probability,786
+correlation dimension,114
+topological space,4
+collective intelligence,56
+field theory,6
+turing machine,4
+data sets,8449
+boolean expression,47
+overlay networks,63
+finite automata,15
+mixture distribution,47
+binary relation,240
+equivalence relation,143
+linear order,71
+recurrent neural network,18
+recurrent neural networks,14
+wavelet,490
+shortest path,1092
+statistical physics,26
+resistance distance,14
+sequences,6781
+embedding,2263
+particle filter,95
+proof of concept,162
+markov chain monte carlo,29
+importance sampling,160
+dynamic system,63
+window,6396
+private information,176
+retailing,26
+commerce,1478
+retailers,144
+econometrics,31
+clinical trial,60
+detrended fluctuation analysis,0
+censored data,70
+nomogram,83
+cox proportional hazards model,0
+photography,109
+3d reconstruction,0
+arg,80964
+game,3998
+spark,60
+network motif,127
+government regulation,2
+regulations,131
+knowledge engineering,31
+proximity,1474
+sitemap,126
+penalty method,6
+false discovery rate,68
+stepwise regression,91
+multiple regression,53
+memory bandwidth,14
+first order,828
+gene regulatory network,12
+granger causality,4
+spectral decomposition,38
+quotient space,0
+maximum flow,117
+contraction,71
+mean field,80
+news media,257
+response rate,96
+segmentation,3408
+spatial relation,89
+transactional data,302
+poisson sampling,1
+manhattan distance,0
+maximum likelihood,917
+speaker recognition,3
+brand image,7
+l1 norm,51
+latent class model,11
+technical report,154
+competitive analysis,30
+similarity,22054
+dynamic time warping,120
+expressed sequence tag,0
+transcription factor,27
+nucleotides,28
+dna sequence,9
+constrained clustering,126
+social behavior,130
+fundamental unit,5
+reputation,1822
+question answering,667
+identity theft,38
+entropy,4220
+meta search engine,65
+infoviz,0
+information retrieval system,181
+time warping,164
+queueing theory,3
+svd,78
+process simulation,4
+log linear model,163
+affinity propagation,49
+social dynamic,73
+factor graph,323
+linear system,263
+object recognition,81
+nearest neighbor search,195
+comparative modeling,0
+confidence interval,827
+confidence intervals,418
+data representation,259
+analysis,24854
+diffusion,3277
+propagation,3566
+tag clouds,127
+singular value,519
+factor model,580
+electric power industry,0
+financial management,3
+power systems,2
+electric power,12
+classifier,17683
+innovative,323
+spatial scale,17
+graph representation,190
+visual cues,68
+reliability analysis,1
+social system,106
+tensor,3136
+application,29963
+state space,365
+web navigation,61
+shrinkage,358
+markov models,92
+hierarchical model,198
+capture recapture,16
+conditional mutual information,34
+capture recapture method,3
+rna sequencing,0
+dna sequencing,0
+spatial pattern,55
+markov,437
+transitive closure,137
+bioacoustics,2
+gamma ray burst,3
+mean reciprocal rank,72
+mean average precision,129
+coincidence detection,0
+web based applications,38
+plug in,363
+software architecture,44
+authorisation,8
+web application,1300
+web based application,60
+message authentication,10
+ssl,970
+authentication,448
+cryptography,59
+authorization,154
+motion pictures,6
+database management systems,38
+niobium,0
+semantic gap,53
+rough sets,13
+hybrid system,43
+spectrum,860
+operating system,482
+situation awareness,39
+hierarchical dirichlet process,18
+control flow,219
+experimental economics,2
+data acquisition,169
+sequence alignment,74
+atmospheric science,6
+python,88
+graphic user interface,2
+cook s distance,0
+projection,3200
+projection algorithm,40
+rotation,393
+spectral methods,95
+eigenvalues and eigenvectors,30
+sql,158
+compression algorithm,109
+computability theory,0
+lines of code,104
+social web,160
+a priori knowledge,73
+boolean algebra,0
+distributed computing environment,19
+statistical models,261
+residual analysis,14
+hadamard transform,0
+power system,5
+human performance,13
+self organizing maps,39
+rough set theory,9
+equivalence class,434
+formal languages,10
+time change,18
+data visualisation,3
+merging,3090
+conceptual learning,0
+graph clustering,397
+call graph,78
+statistical computing,18
+prediction models,275
+chip,283
+grayscale images,18
+denoising,58
+optical filters,0
+real time systems,3
+background subtraction,15
+median filter,21
+ordinal data,14
+structures,5537
+economics,286
+logistics,29
+logistics industry,0
+analytic hierarchy process,1
+feedback mechanism,64
+predictions,3417
+mobility,1525
+decision maker,82
+euclidean space,7
+graph laplacian,12
+green s function,0
+generating function,58
+spillover effects,1
+learning theory,153
+data cubes,69
+multiple correspondence analysis,2
+adaboost,33
+dempster shafer theory,1
+distributed system,390
+hidden web,34
+web crawler,194
+sequential minimal optimization,30
+poisson model,14
+confidence limit,33
+molecular mechanics,0
+motor skills,1
+personal identifiable information,5
+random graphs,240
+linked data,325
+temporal database,38
+question answering system,94
+operational semantics,26
+random testing,4
+constraint programming,59
+earth observation,3
+graph cuts,42
+representation learning,37
+human computer interaction,61
+social development,7
+linear discriminant analysis,52
+weed management,0
+markup language,162
+web accessibility,66
+parallel coordinates,25
+markov decision processes,6
+statistical power,84
+observational study,12
+first mover advantage,0
+clones,88
+feed forward neural network,14
+harmonic analysis,3
+error rate,1543
+homeland security,2
+false positive,2198
+middleware,440
+data intensive computing,7
+exponential random graph model,25
+calibration,338
+sensor networks,190
+random field,485
+object tracking,17
+tracking,2450
+localization,443
+computer security,44
+cube,860
+multiple linear regression,30
+polynomial regression,33
+curve fitting,46
+generation time,16
+front end,296
+de bruijn graph,2
+feedforward neural network,9
+public transportation,63
+gaussian function,1
+information cascade,200
+mel frequency cepstral coefficient,1
+mel frequency cepstral coefficients,1
+sensor fusion,7
+process management,25
+total order,263
+scientific data,56
+water,1287
+geospatial analysis,0
+apriori,264
+bayesian classification,2
+bivariate distribution,1
+order statistic,87
+order statistics,71
+biological database,11
+exact solution,139
+computational chemistry,1
+locally compact,0
+euclidian distance,2
+ant colony,2
+discriminant analysis,206
+handwriting recognition,13
+cross sectional study,1
+stabilizing selection,0
+forward backward algorithm,17
+system design,170
+leverage,2733
+likelihood ratio,174
+modularity,1231
+distribution,35827
+soil fertility,4
+natural resources,0
+environmental impact,15
+natural resource,1
+environmental,401
+exponential distribution,186
+graph labeling,13
+decision support systems,16
+intelligent systems,25
+analytic solution,28
+field experiment,62
+streams,3618
+mining,26093
+operations research,20
+graph databases,146
+xml,1202
+digital television,5
+closed captions,23
+adaptive system,38
+best effort,75
+pattern match,464
+bulk synchronous parallel,3
+physical model,12
+human error,23
+avionics,3
+aviation,39
+non linear regression,16
+expected utility,155
+java applet,1
+haar like features,1
+combinatorial optimization,65
+robot kinematics,0
+cooperative learning,17
+multi agent system,24
+multi agent systems,14
+multiagent systems,9
+air quality,131
+induction generator,0
+partially ordered set,24
+capital market,22
+data analysis methods,6
+knowledge integration,20
+closed form solution,260
+maximum entropy principle,34
+scale free network,107
+scale free networks,83
+gene family,2
+majority voting,193
+data fusion,86
+digital image processing,3
+land,6886
+submodular set function,72
+approximation algorithm,805
+approximation algorithms,304
+comparative study,192
+feature analysis,34
+roc curve,36
+budget constraint,155
+lift curve,96
+probabilistic,5115
+dependency analysis,21
+redundancy,1462
+competitive intelligence,9
+buzz,238
+brand management,4
+communication,5770
+signal to noise ratio,29
+tfidf,107
+parallel processing,58
+bayes,683
+graph database,349
+index,15233
+information need,1443
+diagnostic imaging,1
+magnetic resonance,30
+system security,4
+three dimensional,202
+transductive learning,74
+negative reinforcement,1
+english language,7
+dark web,1
+value added,52
+image features,231
+information exchange,84
+hyperrectangle,121
+algorithmic skeletons,0
+distributed environment,151
+discriminative model,113
+quality of service,115
+knowledge systems,8
+cognitive model,9
+probability density function,232
+dynamical systems,60
+model specification,30
+neuroimaging,63
+cyber physical,38
+web mapping,2
+message passing,287
+root cause analysis,7
+taylor series expansion,0
+taylor expansion,2
+cancer,1188
+diagnosis,662
+dyslexia,154
+probabilistic graphical models,52
+stochastic approximation,55
+adaptive learning,47
+ordinal regression,126
+mobile telecommunication,2
+control system,66
+autonomic computing,10
+event correlation,15
+bag of words,729
+constraint optimization,12
+count data,86
+poisson process,18
+structure formation,4
+data structures,655
+prefix tree,296
+citizen science,68
+biological diversity,1
+outlier,6156
+metric space,193
+data grid,4
+trusted third party,75
+matched filter,4
+mass,2960
+video processing,6
+transcoding,111
+video transcoding,0
+inner product,544
+genome sequence,8
+protein localization,8
+outer membrane,16
+evolutionary algorithm,25
+cell growth,11
+cell line,17
+external memory,79
+electrical engineering,5
+ecosystem model,1
+teleconnections,8
+air temperature,20
+multiple comparisons,15
+bonds,122
+protein conformation,0
+edges,13322
+vertices,6596
+protein structure prediction,3
+preprocessing,1286
+metadata,3669
+bias,7877
+data centric,45
+relationships,7250
+scalable,2792
+structure analysis,100
+drug targeting,0
+robust statistics,10
+agricultural,84
+social good,15
+data type,595
+topographic map,15
+topographic mapping,8
+lp norm,10
+gesture recognition,22
+contextual advertising,137
+decision tree analysis,3
+stochastic,1920
+spreading activation,62
+covariance,1793
+probability,24601
+quadratic discriminant analysis,6
+joint probability density function,6
+closeness centrality,75
+harmonic function,113
+statistical relational learning,53
+directory service,25
+software specification,7
+software evolution,4
+disjunctive normal form,32
+maximum matching,56
+functional dependency,38
+numerical method,29
+spatial analysis,31
+normal operator,6
+probabilistic reasoning,33
+spacecraft,77
+international space station,2
+principal component,400
+qualitative reasoning,5
+phase transition,31
+grey relational analysis,0
+scientometrics,5
+general linear model,2
+personal information management,40
+social capital,240
+human behavior,252
+relative error,438
+dual problem,218
+recovery,689
+fault tolerance,114
+operating systems,134
+windows operating system,0
+copy on write,0
+validity,758
+eigenvalues,777
+fixed point,294
+quantitative trading,1
+computational finance,4
+timeline,915
+chromatic polynomial,1
+efficient market hypothesis,2
+exponential family,107
+pet,8753
+wordnet,128
+semantic distance,113
+pruning,3601
+decision table,78
+exploration,2159
+range query,73
+topology,1189
+shear,19
+statistical modeling,86
+management,4122
+motion estimation,0
+digital images,18
+optical imaging,2
+image stabilization,0
+phase correlation,3
+degree of freedom,79
+heavy tail,428
+social services,28
+diffusion model,315
+degree distribution,1061
+semantic relatedness,303
+fourier transform,4
+autocorrelation,438
+port,87681
+smart environments,6
+sonification,0
+taxis,177
+semantic web,857
+psychology,242
+cognitive science,24
+public policy,13
+exception handling,15
+measurement errors,22
+data set,19764
+data pre processing,29
+fault tolerant,78
+multinomial distribution,682
+bayesian model,20
+emerging technology,7
+vision,4605
+submodular,967
+demand forecasting,6
+comparative analysis,93
+economic development,13
+china,118
+system theory,5
+programming paradigm,51
+computational mechanics,1
+sorting algorithm,25
+time domain,61
+real time processing,30
+spatial autocorrelation,39
+mining industry,1
+coal,413
+property testing,8
+robustness,1140
+stationary distribution,395
+practical reasoning,2
+normal distribution,771
+financial risk management,0
+brain computer interfaces,1
+association mapping,15
+conditional models,14
+partition function,89
+hoeffding bound,1
+trustworthiness,601
+objectivity,60
+randomized algorithm,142
+maximum degree,125
+social relation,626
+consistency,2363
+support,25863
+confidence,6026
+distributed database,103
+artificial immune system,7
+artificial immune systems,1
+natural environment,7
+multivariate analysis,22
+flood control,0
+mil,70524
+propensity score,47
+propensity scores,6
+rejection sampling,79
+biased sampling,49
+missing at random,22
+forensics,40
+data,215858
+error probability,49
+textual entailment,18
+semantic equivalence,9
+data transformation,116
+generalization,2503
+data dissemination,48
+spatial resolution,102
+hits,796
+graph kernel,178
+fractal dimension,84
+histogram,1999
+change,22790
+wavelet tree,21
+succinct data structure,12
+hypothesis testing,188
+experiment design,36
+black box,321
+heterogeneity,594
+generalized linear models,58
+uniform distribution,534
+expert systems,56
+language modeling,315
+probabilistic logic,13
+motion capture,49
+uniform scaling,46
+mass customization,2
+style,3580
+component,15666
+client server architecture,16
+integrable system,0
+stock,1573
+manifold,810
+vector field,7
+features,38557
+np hard problem,1
+consensus,953
+search cost,73
+integer linear programming,29
+binary sequence,32
+key distribution,5
+critical value,89
+key management,15
+covariance analysis,3
+conceptual model,133
+case tool,3
+query language,796
+ibm,903
+compression ratio,342
+statistical association,34
+fractional factorial design,10
+stratified sampling,78
+technological progress,2
+scientific research,59
+model theory,150
+index terms,38
+lead generation,13
+edit distance,656
+digital mapping,2
+marketing mix modeling,0
+statistical independence,21
+frequency domain analysis,1
+spectrum analysis,8
+fourier transformation,0
+frequency domain,73
+vibrations,13
+blind source separation,10
+advertisement,1690
+conversion,1967
+television,312
+ad,256342
+income,547
+shortage,74
+hazard,435
+automobile,155
+scaling factor,112
+semantic security,1
+e government,146
+discrete fourier transform,1
+discrete wavelet transform,6
+exact test,30
+dirichlet distribution,16
+pitman yor process,4
+community organization,2
+survey data,34
+fuzzy sets,118
+soft computing,2
+dwell time,653
+pareto distribution,15
+detection limit,4
+metabolomics,5
+efficiency,4900
+toughness,1
+power laws,106
+phenotyping,84
+entity relationship,116
+multiple inheritance,18
+costs and benefits,16
+gene expression analysis,22
+fft,82
+polynomial kernel,116
+pediatrics,0
+corporate culture,2
+lead,10721
+human resource,41
+gradient boosting,169
+utility,4578
+subject matter expert,24
+high pressure,8
+column generation,32
+ridge regression,128
+exogeneity,3
+factor models,266
+search advertising,176
+multivariate distribution,17
+decision analysis,9
+computational geometry,22
+integrated circuit,3
+belief network,60
+real time control,0
+functional testing,1
+gradient method,227
+support function,81
+near real time,98
+second price auction,183
+high frequency,263
+hilbert space,12
+protein unfolding,0
+selection bias,252
+receiver operator characteristic,5
+guidance navigation and control,0
+propulsion,8
+aeronautics,3
+prognostics,5
+aviation safety,10
+data flow analysis,6
+navigation,4234
+reactivity,15
+kernel functions,132
+kernel estimation,6
+cobol,0
+signal processing,110
+possible worlds,136
+cross sell,73
+imputation,223
+image segmentation,194
+point of interest,85
+ant colony algorithm,0
+marginal likelihood,69
+cox model,0
+stroke,214
+cause of death,10
+censored regression,30
+robust estimator,9
+observational data,68
+focus group,70
+nonparametric test,12
+adaption,92
+digital signatures,27
+asynchronous transfer mode,0
+independent set,183
+network formation,48
+graph coloring,35
+social computing,53
+permanence,96
+relationship,13965
+entity,13047
+competition,1150
+perfect competition,3
+biclustering,133
+convex programming,80
+lp relaxation,3
+computer network,107
+interaction,11337
+predictive,3658
+data replication,41
+heritability,75
+quadratic optimization,55
+quantitative trait,67
+geodesic distance,96
+spatial index,59
+positive definite,258
+innovation,497
+system engineering,2
+evolutionary computation,18
+average path length,112
+collective behavior,68
+crowd simulation,1
+flocking,7
+electroplating,1
+manufacturing,233
+job shop scheduling,0
+tree search algorithm,5
+printed circuits,0
+cycle time,13
+log,84124
+binary tree,185
+social,32803
+business ethics,0
+technology,2390
+computer and information science,4
+single domain,88
+ports,7596
+security policy,68
+cyber security,19
+relational model,244
+variational method,49
+robust optimization,2
+dominator tree,34
+memory leaks,18
+software framework,24
+low energy adaptive clustering hierarchy,0
+energy efficient,48
+indexing terms,16
+birth weight,1
+hash function,698
+line search,322
+ordering,3720
+engineering design,5
+initial condition,79
+geospatial data,33
+random matrices,22
+natural computing,0
+data center,503
+sustainability,58
+chillers,25
+data centers,175
+run length encoding,5
+counting,2462
+astronomy,67
+morphology,38
+parallelization,365
+repeated game,12
+incentive,960
+games,1104
+international trade,1
+service level,67
+smart card,92
+synthetic aperture radar,5
+ai planning,0
+data bases,57
+reduction,4251
+gaussian process,73
+coral,12
+mean square error,127
+hierarchical,4919
+spatial epidemiology,0
+parallel manipulator,2
+elasticity,52
+actuators,12
+microelectronics,0
+kinematic,12
+flight simulator,4
+kinematics,11
+compliant mechanism,0
+topology optimization,4
+machine tools,1
+machine tool,4
+reliability theory,1
+lubrication,2
+reliability,1299
+momentum wheel,0
+estimation theory,4
+agent architecture,11
+predictive model markup language,0
+pmml,0
+open standards,22
+open standard,30
+secondary structure,34
+protein folding,8
+enterprise systems,24
+enterprise system,28
+job scheduling,9
+risk score,140
+ensemble models,36
+analytic signal,0
+level of service,10
+data analytics,89
+complex dynamics,11
+computer simulation,10
+connected components,621
+complete linkage,45
+kd tree,111
+qr decomposition,0
+correspondence problem,13
+boltzmann machine,24
+tropical cyclones,37
+longest common subsequence,34
+tropical cyclone,74
+nonlinear dimensionality reduction,46
+big data analytics,20
+real time bidding,39
+ecommerce,98
+auctions,1093
+sampling error,27
+utility computing,6
+economic forecasting,3
+relational database system,43
+relational database systems,28
+logic programming,114
+relational db,0
+cache memory,14
+candidate gene,472
+seasonal adjustment,3
+ar model,1320
+network monitoring,55
+secret sharing,4
+security model,31
+security analysis,16
+canonical correlation analysis,28
+least squares,752
+hot spot,160
+adaptive,2570
+differential equation,56
+high resolution,102
+association,7132
+soft clustering,102
+concepts,7815
+self similarity,104
+border gateway protocol,1
+internet routing,5
+service delivery,33
+heavy tailed distribution,101
+web applications,804
+document processing,36
+partial least squares regression,9
+partial least square regression,2
+information management,222
+service oriented architecture,50
+social mobility,3
+rna secondary structure,3
+pricing,817
+software security,7
+malicious software,12
+log linear models,74
+criminal justice,5
+engines,5416
+metasearch engines,29
+search engines,4493
+dynamic content,285
+metasearch,83
+computer architecture,9
+price level,13
+functional model,8
+community,13337
+business strategy,9
+modern portfolio theory,6
+grouped data,0
+similarity matrix,628
+network performance,41
+contingency table,316
+contingency tables,97
+post processing,420
+professional association,4
+social structure,142
+normalization,1930
+multiple hypothesis testing,17
+p value,1452
+network design,25
+symmetric polynomial,0
+correlation matrix,149
+mahalanobis distance,1
+book industry,1
+publishing,961
+sorting,867
+sufficient statistic,289
+chinese restaurant process,30
+nonparametric,463
+parallel systems,12
+relative entropy,49
+word frequency,85
+filter bank,12
+learning vector quantization,3
+software development process,7
+software testing,10
+input output,51
+software reliability,15
+language technology,7
+visual inspection,68
+change point detection,43
+intelligence augmentation,0
+derived category,1
+spatial relationship,69
+rate of convergence,80
+movie analysis,3
+abductive reasoning,14
+atmospheric chemistry,4
+breath analysis,3
+kinetics,64
+weighting function,191
+data interpretation,14
+energy management,5
+geocoding,30
+ubiquitous computing,48
+access control,450
+supply chain management,13
+ahp,4
+mass spectrometry,32
+dynamic data,188
+computer aided design,2
+incomplete information,119
+quantum cognition,3
+complex contagion,64
+cluster computing,9
+intervention,611
+variance decomposition,41
+audio analysis,14
+manifolds,141
+local consistency,25
+mechanics,128
+potential energy,13
+mathematical programming,25
+spline,144
+cubic spline,4
+1 dimensional,110
+linear regression model,211
+smoothing spline,12
+adaptive filter,40
+dynamic scheduling,15
+distributed algorithm,121
+scheduling algorithm,83
+load distribution,74
+newton method,20
+multivariate data,68
+spam,6938
+botnet,106
+perturbation theory,23
+wavelets,102
+cox regression,3
+distributed memory,47
+low latency,66
+high performance computing,21
+silicon,27
+square wave,8
+si,918846
+high pass filters,1
+high pass filter,2
+frequency modulation,0
+receiver,563
+scm,437
+interference,153
+semiconductor lasers,0
+laser power,0
+light interference,0
+amplifiers,15
+modulation frequency,0
+application program interface,1
+plasma physics,0
+astronomical survey,4
+semantic search,235
+concrete,1260
+computer experiment,0
+arima model,0
+transaction database,311
+smart environment,9
+smart home,39
+pervasive computing,16
+object relational mapping,5
+functional programming language,7
+type system,308
+bayesian method,6
+probability theory,36
+null model,97
+relative humidity,7
+condensation,26
+modules,1047
+experiment,37614
+thermoelectricity,0
+cooling fins,0
+acceleration,313
+humidity,86
+heating,273
+web design,104
+stackelberg game,0
+stackelberg competition,0
+covariance estimation,54
+information overload,173
+social role,151
+social status,100
+sparse grids,12
+document layout analysis,2
+general,26055
+mechanical systems,1
+augmented lagrangian,6
+biomarkers,120
+gait analysis,0
+kohonen map,0
+generalized second price auction,59
+working paper,14
+network management,35
+fault management,9
+conditional expectation,42
+microarray analysis,16
+anchor text,973
+noun,2257
+saddle point,28
+kalman filter,11
+personalized learning,12
+language learning,47
+lift,1103
+phenotype,398
+financial risk,3
+gdp,5
+fdi,343
+multiple regression analysis,14
+economic indicators,12
+determinant,165
+conditional entropy,97
+metric,19784
+lazy evaluation,25
+pharmacophores,0
+polymorphism,29
+goal orientation,2
+recommendation system,819
+bounce rate,186
+design optimization,6
+low rank matrix,170
+technology assessment,1
+factorial design,24
+screening,412
+connected graph,211
+connectivity,1933
+visual servoing,0
+threads,1315
+reinforcement,544
+bipartite graphs,260
+image analysis,109
+probability density,379
+human communication,60
+design principles,86
+public domain,69
+customer loyalty,15
+swaps,78
+chi square test,31
+independent and identically distributed,95
+simpson s paradox,0
+standard deviation,1869
+points of interest,82
+rootkits,3
+trace,3630
+web browsing,307
+genetic susceptibility,0
+correlation clustering,127
+key performance indicator,11
+information good,2
+design process,65
+information infrastructure,8
+service design,32
+fractionation,1
+space missions,0
+customer retention,10
+information matrix,42
+network flow,96
+conjunctive normal form,12
+combinatorial design,16
+fast fourier transform,1
+white noise,47
+behavioral science,45
+political science,31
+industrial engineering,3
+graph analysis,110
+graph visualization,36
+vector space model,314
+cluster,68596
+digital image,30
+scale space,58
+diabetes,301
+jackknife resampling,2
+dark energy,4
+materials science,2
+spatial statistics,21
+correlation function,101
+semantic network,126
+object model,77
+sequential analysis,11
+authentication protocol,4
+data analysis techniques,14
+global information systems,1
+aerosol optical depth,2
+iteration method,32
+spatial diversity,9
+look ahead,69
+hamming distance,39
+best practice,173
+microarrays,28
+eigen decomposition,97
+conceptual graph,17
+natural language interface,15
+fractals,20
+equivalent,4377
+snow,417
+cross correlation,94
+shared memory,186
+palindrome,61
+core network,30
+health information systems,2
+jensen shannon divergence,1
+poset,40
+binary decision diagram,12
+sequence,19965
+experimental design,155
+subgradient,125
+randomization,697
+kinetic theory,1
+couplings,65
+visual object recognition,6
+branch and bound,100
+lattice model,8
+ground state,17
+global analysis,39
+likelihood ratio test,41
+language models,831
+service industry,5
+rank correlation,242
+brain computer interface,3
+cost benefit analysis,7
+gateway,473
+infrared,23
+minimum message length,5
+smoothing,1646
+query expansion,627
+relation algebra,0
+instance based learning,22
+rule based systems,26
+systems engineering,3
+systems analysis,6
+metric tree,31
+optical character recognition,11
+fluorescence microscopy,5
+projection method,66
+disease outbreak,98
+software agent,78
+statistical hypothesis testing,21
+nearest neighbor method,41
+amr,212
+text segmentation,57
+bayesian,498
+shannon entropy,9
+markov blanket,5
+predictive maintenance,17
+model error,32
+market analysis,25
+correspondence analysis,32
+medicine,365
+band structure,1
+voting,1466
+winnow,38
+cutting plane method,27
+cellular networks,28
+data field,97
+fault detection,65
+ordinary differential equations,4
+enzyme catalysis,1
+system biology,2
+biological systems,11
+ordinary differential equation,4
+system identification,13
+systems biology,21
+statistical modelling,7
+imprecise probability,0
+trajectories,1282
+extraction,8200
+kernel principal component analysis,6
+kernel fisher discriminant analysis,1
+context free grammar,88
+context free grammars,25
+machine translation,218
+grammar,935
+parsing,963
+species distribution,28
+decomposition method,87
+greedy heuristic,135
+coupling from the past,2
+linear space,46
+early warning system,44
+music,2964
+emotion,1287
+valence,1903
+arousal,73
+computational social science,16
+psychological,324
+structural stability,0
+workflow,1652
+color image,41
+gamma distribution,56
+score function,241
+electronic nose,3
+mathematical analysis,35
+computational learning theory,7
+traffic management,19
+information,63094
+penalty function,100
+convex function,185
+systematic review,44
+evidence based practice,0
+triangular,173
+fuzzy clustering,37
+generalized eigenvalue problem,71
+ddos attack,1
+linear algebra,119
+vlsi,6
+cognitive process,43
+brain imaging,9
+cell biology,1
+greenhouse gases,15
+climate change,80
+climate model,58
+extreme value,135
+green house gases,0
+network architecture,37
+back propagation,74
+money,903
+exponential families,39
+relevance vector machine,17
+constraint satisfaction,75
+voice analysis,1
+functional requirement,67
+software requirements,6
+reasoning,1767
+order,36736
+tin,231963
+resource management,83
+privacy policy,97
+business model,180
+monte carlo simulation,2
+conjoint analysis,41
+natural languages,25
+research methodology,17
+rate limiting,25
+complete graph,163
+user requirements,52
+binomial distribution,121
+evolutionary computing,2
+decision problem,88
+standard model,82
+copula,187
+background,3090
+knowledge,19378
+sea surface temperature,8
+statistical signal processing,2
+pattern search,56
+control theory,39
+information retrieval systems,113
+kernel machine,91
+non euclidean,5
+informatics,1021
+internet security,7
+x ray crystallography,0
+linux cluster,0
+load balancing,356
+discrete time,157
+urban geography,9
+minimum variance,25
+gain ratio,43
+facility location,44
+kl distance,0
+hierarchical cluster,844
+latent variable model,157
+quality management,8
+mobile technology,11
+system,48671
+parameters,16498
+measurement error,48
+measure theory,0
+molecular dynamic,2
+fluid flow,1
+lossless compression,31
+food packaging,1
+quality standard,5
+fmea,12
+database systems,229
+transmembrane helix,0
+viterbi algorithm,5
+network tomography,15
+local area network,20
+tomography,64
+interaction effect,65
+heart rate variability,1
+software as a service,7
+history,4012
+zipf law,0
+statistical distributions,13
+routing,1220
+image restoration,11
+sterilization,2
+steganalysis,14
+steganography,33
+dynamic topic models,24
+opportunity cost,30
+knowledge based economy,0
+co occurrence matrix,73
+concept map,68
+accounts receivable,9
+predictive validity,1
+graceful degradation,7
+dbms,17
+decision making process,74
+occam s razor,0
+social evolution,9
+giant component,145
+stars,538
+services,11269
+translation,2195
+hpsg,1
+event cascade,112
+document management,34
+content management,128
+www,13610
+statistical arbitrage,9
+protein complex,69
+network routing,10
+protein domains,3
+structure alignment,3
+speech synthesis,21
+fundamental frequency,10
+text to speech,20
+xml document,40
+interior point method,40
+quadratically constrained quadratic program,4
+kernel discriminant analysis,8
+design of experiment,26
+difference in differences,8
+refinement,1732
+disaster recovery,8
+public sector,22
+emergency management,41
+spatial dependence,3
+scenario analysis,9
+precision agriculture,0
+hierarchy,4063
+subject headings,14
+sitemaps,29
+social information processing,0
+collective knowledge,67
+conductance,646
+multicriteria optimization,12
+cartesian product,23
+product life cycle,10
+scale invariance,13
+spanning tree,342
+tight coupling,50
+sea ice,2
+volcanoes,9
+bandwidth,1933
+volcanic eruption,0
+cyrosphere,0
+feature detection,8
+cosine similarity,1058
+regular expression,667
+regular language,37
+motif,1797
+mean shift,52
+computer technology,9
+regeneration,8
+intelligent control,1
+information transfer,85
+smart grids,3
+partial least squares,26
+robust regression,21
+nonlinear optimization,17
+vulnerability,460
+planar graph,19
+birth death process,0
+recall,7734
+precision,10079
+metrics,6931
+signal detection,62
+specific activity,13
+tree data structures,11
+dbscan algorithm,0
+sequential learning,11
+probabilistic database,64
+reference model,249
+rewrite rules,36
+canonical form,161
+url normalization,0
+law,3540
+higher education,62
+government,903
+web spam,201
+transaction processing,14
+statistical distribution,34
+greedy algorithms,116
+real estate,280
+auto regressive,43
+structured learning,60
+finance,382
+partial differential equation,10
+input output analysis,0
+regression testing,23
+el nino,1
+anti phishing,42
+phishing,798
+point estimation,37
+kullback leibler,4
+outsourcing,94
+market share,255
+resampling,242
+deployment,1267
+information managment,0
+extrapolation,153
+risk managment,0
+inventory control,2
+pollution,84
+infra red,2
+patient monitoring,4
+functional programming,24
+tree kernels,44
+lognormal distribution,89
+local time,49
+ions,261714
+coding theory,9
+matching,8781
+conceptual framework,39
+software analysis,5
+data transmission,56
+bluetooth,48
+edge coloring,1
+randomized rounding,19
+piconet,0
+scatternet,0
+it security,3
+convexity,159
+hyperbolic plane,7
+social issues,10
+naive bayes algorithm,1
+multi layer perceptron,10
+generalized estimating equation,3
+scientific knowledge,13
+dirichlet prior,9
+mixed model,22
+kd trees,38
+analytic geometry,0
+applied mathematics,11
+human dynamics,48
+degree centrality,82
+scorecard,20
+data engineering,23
+predictability,232
+time sharing,5
+coal industry,0
+occupational safety,0
+insurance,571
+elastic net,47
+local convergence,4
+proactive learning,3
+blood pressure,78
+sampling frequency,37
+empirical method,14
+property,6886
+optical fibers,0
+cultural differences,30
+natural experiments,7
+performance measurement,52
+mixture of gaussians,1
+unimodality,28
+elliptical distribution,0
+face,16110
+transparency,167
+triangle inequality,196
+stable distribution,55
+asymptotic analysis,16
+hazard analysis,0
+enzyme,72
+dynamic bayesian network,46
+canonical correlation,34
+canonical representation,25
+physical examination,6
+developing nations,7
+chi squared statistic,5
+multiple choice,89
+reservoir computing,2
+warehouse,339
+discrimination,447
+hurst exponent,0
+short term memory,4
+echo state network,2
+degree sequence,96
+gaussian noise,2
+hough transform,1
+memory allocation,20
+clickthrough rate,215
+internet advertising,20
+human visual system,9
+emphasis,592
+chart junk,0
+hardware architecture,8
+preprint,237
+vector clocks,32
+machine,12183
+traffic theory,0
+image reconstruction,16
+small world network,90
+context model,73
+agile,85
+upsampling,1
+downsampling,35
+industrial economics,2
+differential evolution,1
+clustering algorithm,3364
+network interface card,5
+next generation network,3
+mobile devices,656
+oceanography,1
+telematics,5
+resource manager,12
+social spam,98
+heterogeneous networks,214
+reef,117
+scale out,23
+lte advanced,0
+fuzzy,1232
+iterative methods,40
+lte,22910
+iteration,10090
+qos,62
+bipartite matching,51
+dataset,39167
+apriori algorithm,27
+building design,1
+urban planning,33
+euclidean minimum spanning tree,1
+heat kernel,74
+mixtures,376
+collaborative,4226
+behavioral economics,9
+coreference,139
+autoregressive models,27
+clusters,18212
+customer relations,45
+sash,50
+rsc,863
+categorization,2192
+reference data,140
+probabilistic analysis,44
+nuclear norm,122
+weight training,2
+stationary sequence,0
+radial basis function,50
+string,6786
+ramsey theory,0
+temporal resolution,52
+automated reasoning,22
+foreign policy,14
+qsar,1
+cheminformatics,5
+multivariate regression,29
+boolean model,11
+error detection,37
+six sigma,0
+sdi,278
+volunteered geographic information,3
+spatial information,102
+sensors,1425
+place,13336
+spatial data infrastructure,0
+market economy,1
+cost accounting,0
+media,20385
+corporate restructuring,1
+harmonic mean,210
+blocking,1329
+geophysics,3
+data capture,42
+cyclones,57
+climate models,21
+global climate change,5
+complexity,7814
+path finding,19
+fitting,2104
+free surface,0
+tag cloud,276
+mobile search,150
+skew symmetric,45
+security protocol,14
+scalar product,81
+web security,30
+path analysis,29
+conjugate gradient,91
+complexity reduction,9
+georeferencing,4
+quadratic program,287
+compressed sensing,37
+ndvi,15
+growing season,0
+field experiments,37
+bootstrapping,356
+kalman filtering,1
+reserve price,214
+design of experiments,25
+probability measure,95
+over sampling,128
+over fitting,208
+business case,8
+parametric test,39
+mobile agent,33
+network congestion,26
+service discovery,155
+generalized linear model,97
+network effects,55
+generalized linear regression,9
+linear scale,51
+transitivity,355
+triadic closure,121
+costing,23
+reservoirs,11
+travel industry,6
+social environment,29
+coordinate descent,345
+markov chain model,5
+circulating fluidized bed,2
+interaction technique,23
+portfolio management,12
+magnetic resonance image,3
+boundary condition,54
+time variant,31
+fluid dynamics,8
+cyber physical systems,15
+thermal management,11
+negative feedback,111
+biology,553
+data transformations,39
+relative abundance,8
+graph isomorphism,216
+facility management,0
+analytic function,19
+traveling salesman problem,14
+receiver operating characteristics,12
+mri,133
+internal model,9
+chemical industry,3
+system analysis,12
+methodology,2447
+maximum cut,22
+application development,99
+gas chromatography mass spectrometry,0
+environmental science,10
+near infrared spectroscopy,0
+nash equilibrium,0
+information quality,36
+collaborative decision making,0
+probabilistic algorithms,10
+visual words,91
+bag of visual words,14
+criminology,6
+fermi,1
+flood forecasting,13
+feature scaling,16
+survey methods,2
+service quality,76
+method of moments,23
+multifractal,0
+sequential sampling,10
+preventive medicine,16
+humor,160
+gene regulation,19
+likelihood,7070
+model identification,8
+conditional probability table,27
+languages,2932
+interaction design,26
+process evaluation,1
+zipf s law,0
+maximum likelihood estimation,218
+information geometry,6
+emerging markets,12
+antibiotic resistance,13
+web crawling,105
+ease of use,87
+cholesky decomposition,1
+discriminant function,68
+persistence,274
+discretization,864
+genome wide association studies,7
+coclustering,80
+potential difference,9
+hpc,188
+web app,1353
+heuristics,2170
+percentiles,108
+sequential estimation,6
+ewma,970
+molecular evolution,2
+economic sectors,0
+minimum spanning tree,74
+false alarm rate,151
+winnow algorithm,0
+linear optimization,46
+granular computing,6
+animal movement,8
+distributed processing,28
+packet loss,114
+ad hoc network,27
+interval estimation,3
+transductive,321
+gaussian random field,2
+out of core,48
+secondary memory,20
+beta distribution,53
+computer networks,68
+random processes,21
+outliers statistics,0
+linear systems,86
+nested loops,24
+maximum likelihood estimator,53
+relational database model,6
+attribute values,1310
+optical computing,0
+brainstorming,22
+monte carlo method,5
+criteria,3305
+monte carlo,82
+interest rate,117
+theorem proving,16
+persistent storage,32
+cognition,4055
+rdf schema,80
+query languages,211
+sparql,122
+resource description framework,4
+semantic networks,42
+maintenance engineering,0
+ontology language,135
+occupancy,247
+handheld device,100
+field study,73
+comparative genomics,1
+dos attack,1
+video tracking,7
+ambient intelligence,4
+lifelong learning,18
+selection,12928
+optics,8
+structural equation model,14
+confirmatory factor analysis,0
+path model,6
+structural equation modeling,8
+exhibitions,14
+product management,1
+movie,4996
+procurement,76
+r tree,882
+food web,61
+information and communication technology,6
+hvac,3
+building management systems,0
+reachability,413
+markov process,4
+transition matrix,463
+attraction,372
+kendall s tau,0
+clinical research,8
+component based development,6
+monte carlo sampling,3
+compact disk,1
+learning curve,220
+censoring,33
+clinical decision support,8
+random permutation,125
+linear dynamical systems,17
+visual tracking,4
+multi core,107
+probability and statistics,1
+linear dynamical system,31
+multi core processor,8
+kalman filters,6
+processor architecture,12
+voice recognition,12
+secure computation,1
+news aggregation,25
+quality of information,29
+lossy compression,59
+data fitting,13
+natural experiment,19
+quasi experimental design,16
+image quality,59
+behavioral pattern,169
+rule based reasoning,4
+access method,73
+volume rendering,22
+multispectral images,2
+thermodynamics,13
+digital elevation model,0
+multilinear,58
+statistical classification,15
+hierarchical data,45
+least square method,5
+color space,95
+lane departure warning system,0
+quadratic curve,11
+database integration,12
+system integration,11
+multiclass classification,96
+marginal probability distribution,16
+biomedical imaging,0
+vertical integration,4
+gray scale,39
+polynomials,75
+stationary wavelet transform,0
+joint entropy,71
+public transit,34
+low resolution,31
+computer network security,1
+dna,275
+tcp ip,0
+local area networks,2
+genomics,57
+hybrid algorithm,67
+relational data model,29
+contingency plan,46
+global network,74
+venture capital,12
+cross correlation function,3
+climate,459
+multi armed bandit problem,39
+multi armed bandit,105
+steady state,358
+sat solver,1
+human resource management,4
+autoencoder,119
+structured prediction,41
+decoding,255
+decimal floating point,0
+multiplication operator,5
+product distribution,11
+negative externalities,9
+distance matrix,215
+advanced manufacturing,10
+process optimization,10
+dynamic analysis,44
+static analysis,128
+materialized views,23
+micro data,15
+gsm data,0
+factorization,3838
+numerical linear algebra,15
+prediction algorithms,111
+sensitivity,1646
+second law of thermodynamics,0
+fluids,3
+time constant,15
+binary image,15
+geometric brownian motion,1
+ids,4892
+semantic integration,19
+abstraction,1101
+performance management,12
+stress response,4
+cell division,4
+biological networks,172
+signaling pathway,12
+cycle graph,6
+treewidth,25
+cardinal number,8
+swarm intelligence,2
+evolutionary game theory,0
+evolutionary stable strategy,0
+hub and spoke network,0
+innovation management,0
+message passing interface,3
+parallel programming model,11
+vc dimension,0
+yield management,4
+densification,207
+super resolution,3
+probabilistic method,93
+z score,138
+modular design,14
+thermal power plant,0
+thermal efficiency,0
+condenser,3
+mobile robot,17
+environmental monitoring,13
+activity recognition,82
+linear system of equations,16
+mechanism design,146
+coefficient of variation,30
+part of speech,330
+np complete problem,3
+time allocation,2
+experimental analysis,76
+rgb color space,0
+satellites,52
+degradation,290
+radiation detectors,0
+environmental health,2
+atmospheric modeling,0
+domain specific languages,12
+system modeling,3
+small and medium enterprise,1
+crawling,1999
+bregman divergence,14
+conjunctive query,60
+conjunctive queries,105
+equivalence checking,1
+transaction log,31
+intellectual property rights,7
+asymmetric information,7
+information asymmetry,5
+buyer,1142
+signaling,124
+intellectual property right,7
+property rights,11
+multivariate linear regression,5
+natural science,8
+consumer products,20
+new product development,2
+spatial orientation,2
+multimedia,1594
+metamodel,87
+mixture,3977
+weather,923
+melange,0
+voice,1146
+document structure,177
+shadow,147
+image sensor,2
+engineering,1156
+aryl hydrocarbon receptor,0
+signalling pathway,1
+labeling,3431
+magnetic resonance imaging,21
+magnetic,92
+specification language,74
+receiver operator curve,1
+accelerometer,75
+physical activity,12
+web analytics,30
+rich internet application,3
+model validation,19
+signaling game,0
+dynamic game,3
+health informatics,10
+natural hazard,27
+cognitive ability,0
+information analysis,14
+multi criteria decision analysis,0
+data hiding,3
+folk taxonomy,0
+bookmarking,349
+critical infrastructure,4
+internal standard,1
+data protection,33
+data exchange,114
+predictive analysis,9
+decision tables,31
+gui,11988
+distributive law,5
+business process model,33
+inductive bias,26
+numerical methods,22
+diffusion process,388
+infectious disease,93
+dft,28
+counterfactual analysis,1
+shortest path algorithm,25
+microfinance,23
+social movements,29
+choice theory,13
+click fraud,44
+affinity,1108
+distance,20024
+library science,10
+aesthetics,100
+online education,12
+attitude,373
+explicit semantic analysis,21
+domain expertise,157
+user interface design,37
+teleportation,99
+relation,42797
+spamming,252
+query classification,206
+error correction,34
+latent variable modeling,4
+timestamp,1862
+bayesian hierarchical model,4
+micro blogging,150
+isotonic regression,79
+digital libraries,165
+open content,22
+web query,120
+ctr,8696
+covering,4140
+additive schwarz method,0
+behavioral modeling,21
+buyer behavior,3
+annotation,6629
+functional decomposition,1
+entity linking,287
+qualitative research,28
+temporal difference,24
+dilution,50
+search engine optimization,19
+flick,305
+identity theory,3
+authority,1156
+equilibrium state,13
+equilibrium,1192
+conformer,10
+proximity search,43
+strongly connected component,123
+memory model,31
+associative algebra,0
+prototyping,102
+reusability,150
+resource sharing,23
+systems,15115
+bittorrent,6
+value chain,7
+bayesian modeling,0
+inverted index,801
+marginal utility,71
+physical computing,1
+algorithmic game theory,4
+bayes factor,1
+interval graph,4
+individual differences,44
+tourism,157
+ugc,30
+video,7774
+taxonomy,2349
+microblogs,338
+perceptron algorithm,101
+stochastic analysis,1
+public opinion,90
+social choice,38
+friendship paradox,52
+early warning,87
+mutual exclusion,119
+domain specific,1065
+interleaving,295
+bibliometrics,27
+diversification,715
+renewal theory,0
+transductive inference,13
+temporal,9235
+burrows wheeler transform,0
+lossless data compression,5
+duration,1859
+information model,44
+probabilistic relevance model,1
+user,135865
+reference frame,24
+conversion rate,405
+forward rates,0
+demographic,1524
+complementarity,78
+click through,1459
+qualitative data,12
+ensemble modeling,1
+conceptualization,103
+cultural studies,2
+regression models,392
+duplication,450
+negative affect,22
+entities,11185
+view,36066
+geotagging,35
+predictive distribution,82
+empirical model,7
+paid search advertising,3
+emergency,434
+disaster,909
+commonsense knowledge,26
+succinct data structures,7
+link,37291
+hybrid,1942
+correspondence,710
+social theory,17
+n gram,1890
+hash filter,25
+power,8158
+variance,6874
+temporality,45
+gaussian,345
+cellular automata,7
+semantic model,90
+page layout,139
+object,31150
+virtual worlds,24
+rest,47989
+embedded devices,15
+internet of things,7
+push,1464
+extensible markup language,1
+encyclopedias,23
+organization,3194
+css,476
+cascading style sheets,13
+debugging,172
+style sheets,92
+web development,61
+rate of change,82
+operational risk,1
+xml documents,34
+spillover effect,1
+optimal stopping,10
+hits algorithm,5
+pointing device,20
+representational state transfer,1
+point to point,38
+ontology mapping,52
+document object model,24
+barriers to entry,3
+digital certificate,8
+digital signature,48
+description logic,288
+rdf,3015
+information architecture,35
+public key infrastructure,7
+predicate logic,11
+standardization,175
+class of service,17
+computational model,87
+asdl,0
+interval temporal logic,1
+smil,101
+event,27691
+function,44382
+dom,60563
+svg,64
+parameter,30013
+developing world,77
+turnover rate,0
+promotion,719
+cultural heritage,41
+accommodation,215
+language,14247
+telecom,255
+cctld,0
+interconnection,96
+adaptive behavior,9
+asynchronous communication,87
+design patterns,43
+bpel,33
+stochastic context free grammar,6
+hmm,30
+rule based system,50
+ddos,9
+distributed denial of service,8
+linux,94
+hci,30
+cognitive function,16
+cognitive engineering,9
+usability,989
+event processing,22
+publish subscribe,13
+mobile web,73
+communication channels,52
+integrated services,5
+web interface,120
+design pattern,83
+mashup,860
+reification,90
+backpropagation algorithm,5
+cscw,2
+argumentation,40
+hyperlink,2627
+network server,17
+formal method,15
+metasearch engine,49
+enterprise application integration,9
+reading,2799
+scrolling,356
+flow,8256
+handheld devices,87
+electronic business,5
+mobile commerce,8
+url,1862
+fragment identifier,82
+html,3568
+http,20733
+lbs,76
+conceptual modeling,12
+model driven engineering,2
+software design,19
+web application development,19
+programming languages,157
+object oriented programming languages,4
+object orientation,6
+database replication,25
+concurrency control,38
+queue management,2
+m commerce,36
+system dynamics,28
+traditional chinese medicine,1
+drug interaction,11
+formative assessment,1
+contextual search,44
+meta search,174
+service oriented computing,19
+environmental scanning,0
+web of data,47
+linked open data,17
+eigenvector,1698
+isoperimetric,48
+web of trust,85
+bipartite network,74
+web engineering,12
+xslt,32
+xml database,5
+web archive,199
+multicast,335
+bloom filter,162
+development process,85
+rss,174
+atom,2579
+overlay network,126
+free riding,13
+incentive compatibility,41
+combinatorial auctions,19
+transaction cost,35
+failure mode,24
+high level language,23
+sign language,16
+client server,129
+enterprise data,61
+approval voting,7
+design methodology,15
+electronic data interchange,1
+document management system,6
+wireless,797
+soap,139
+biomedical informatics,11
+template,5184
+semantic technologies,52
+cross site scripting,90
+web application security,16
+visual,10299
+constraint satisfaction problem,12
+prior,12106
+delay tolerant network,19
+hypertext transfer protocol,0
+delay tolerant networking,3
+proxy,2538
+hyper text transfer protocol,1
+investment banking,1
+health education,2
+prune,2496
+interoperability,450
+synthetic biology,0
+quantitative method,19
+rtsp,32
+mpeg 4,3
+referential integrity,11
+description logics,168
+hypertext,643
+modeling language,66
+stationary state,20
+conflict resolution,71
+xml databases,2
+time to live,39
+maximum entropy distribution,26
+social welfare,217
+multiple sequence alignment,21
+time management,8
+machine vision,9
+abstract syntax,133
+xsl,486
+html5,32
+nash equilibria,2
+price of anarchy,30
+weight function,215
+cross site request forgery,26
+lowest common ancestor,40
+uniform resource locator,5
+false positives,1149
+rapid application development,2
+normal matrix,43
+syndication,104
+spammer,1448
+ecosystem,327
+google distance,0
+ontology matching,76
+ambient calculus,0
+digital divide,24
+global digital divide,0
+ordered logistic regression,0
+negative binomial regression,1
+online participation,3
+privilege separation,11
+jax rpc,2
+sax,30
+collaborative systems,12
+range queries,107
+quality factor,14
+auction theory,22
+local knowledge,34
+schema,5136
+pushdown automata,0
+chronology,16
+repeated measures,5
+concept search,22
+requirements management,1
+object persistence,17
+javascript,130
+limit set,1
+lagrangian relaxation,2
+rule of thumb,91
+agents,1973
+answer set programming,1
+domain,23566
+user agent,170
+accessibility,528
+interface design,139
+verification,936
+semantic web rule language,1
+owl s,39
+inverted file,51
+binary xml,1
+data modelling,2
+cultural diversity,2
+cultural identity,1
+it management,4
+relationship management,35
+materialized view,49
+shortest path tree,8
+visual programming language,6
+breakpoints,100
+stopping time,7
+system on chip,0
+man in the middle,18
+certificate,847
+password,1201
+man in the middle attack,13
+https,853
+particle size,2
+human settlement,2
+interactive tv,0
+interactive television,1
+requirement analysis,6
+image orientation,13
+captcha,157
+personas,48
+error correction code,3
+digital watermark,3
+digital watermarking,2
+database search,24
+digital tv,0
+dvb,1
+interactive multimedia,17
+remote control,31
+stack overflow,16
+semantic interoperability,53
+information management system,20
+sensory system,5
+relationship extraction,14
+logical structure,245
+unsupervised machine learning,9
+text analytics,58
+documentation,386
+service model,37
+service management,56
+software component,111
+database design,26
+round trip time,70
+brand value,19
+contextual analysis,12
+process models,106
+internet access,28
+3d visualization,0
+resiliency,12
+formulation,4471
+meta searching,5
+group decision making,2
+mobile,5275
+wap,940
+matrix equation,21
+neuronal migration,6
+implementation,8083
+finite state machine,64
+leader election,2
+dark matter,3
+anycast,69
+denial of service attack,32
+identity management,16
+agriculture,69
+dispersion,315
+gcs,43
+polling system,2
+sms,3073
+emerging market,17
+cross cultural,41
+e procurement,29
+e business,1068
+bundle adjustment,0
+project management,11
+software agents,65
+fuzzy search,24
+scripting language,74
+drawings,59
+distributed web crawling,10
+social norm,39
+public housing,0
+same origin policy,86
+pharming,16
+extensibility,159
+reuse,1544
+interoperation,49
+intelligent agent,47
+object oriented programming,21
+data serialization,2
+legacy system,39
+design management,0
+meta data,508
+vocational training,0
+best practices,118
+interpersonal communication,26
+coordination game,8
+keyword advertising,11
+wireless application protocol,0
+network protocol,39
+latency,1545
+dependency,2252
+risk aversion,5
+xss,27
+filter design,5
+infrastructure as a service,2
+wml,23
+attention,3465
+skip list,17
+table of contents,53
+social awareness,13
+reconfiguration,77
+replication,714
+service,26032
+capability,1169
+web application server,3
+steepest descent,43
+latin hypercube sampling,0
+server side scripting,31
+certificate authority,6
+public key,208
+computation tree logic,0
+software quality,13
+transport layer,50
+watershed management,0
+phosphorus,13
+aspect oriented programming,2
+separation of concerns,22
+aspect oriented,16
+modularization,18
+separation of concern,22
+repurposing,26
+handheld computer,8
+propositional logic,29
+rdfs,859
+meta model,142
+object oriented design,9
+discrete event simulation,4
+virtual machine,100
+education system,7
+elections,489
+politics,512
+empirical distribution,169
+caching algorithms,33
+performance indicator,27
+minhash,96
+plsi,5
+factor,19426
+web architecture,22
+roles,1902
+learning technology,18
+social dynamics,72
+distributed objects,50
+it strategy,14
+emotional,355
+generic programming,1
+response time,1364
+working group,54
+functional dependencies,105
+gain control,13
+decentralized system,7
+middle tier,26
+distributed algorithms,72
+business processes,166
+video quality,19
+food chain,10
+scalable vector graphics,3
+image formation,1
+temporal databases,24
+turing test,2
+dns,56
+service system,24
+quality improvement,32
+livelock,5
+deadlock,152
+fingerprint,1117
+distributed architecture,66
+diagrams,373
+distributed application,94
+distributed applications,66
+geotag,251
+friend of a friend,20
+semantic analytics,6
+peer review process,8
+semantic knowledge,134
+constraint propagation,36
+taste,585
+computer graphic,20
+wireless ad hoc network,8
+unit disk graph,5
+power efficiency,6
+continuous time markov chain,1
+category,9143
+centroid,1786
+web page,7185
+computer supported cooperative work,7
+svms,74
+index of dispersion,10
+delta encoding,52
+terrain rendering,0
+structural complexity,15
+nondeterministic finite automata,3
+automata,232
+distributed hash table,34
+biodiversity,11
+ecological forecasting,0
+food webs,11
+developing country,2
+distance education,23
+kiosks,56
+inter process communication,14
+data transfer,215
+scripting,334
+domain model,80
+grammar induction,10
+group communication,54
+availability,1471
+passwords,414
+zipf,47
+dictionary attack,48
+unit commitment,0
+market design,4
+market failure,0
+efficient markets,1
+electricity market,14
+electricity generation,0
+versioning,121
+data manipulation language,0
+elliptic curve,4
+log likelihood ratio,20
+transliteration,135
+geolocation,189
+awareness,756
+critical mass,42
+metamodeling,4
+competitive ratio,42
+semantic markup,47
+ontology alignment,50
+file transfer protocol,4
+population size,136
+cryptographic protocols,11
+cryptographic protocol,13
+group identity,14
+corpus,5523
+variables,10189
+secure communication,10
+metropolis hastings algorithm,1
+portal,1585
+reference architecture,9
+mode of action,1
+formal semantics,103
+udp,22
+bit error rate,1
+complex event processing,4
+high availability,36
+service oriented architectures,14
+site map,40
+framework,16084
+survey research,6
+public administration,32
+digital music,13
+decentralized control,2
+set packing,11
+ecmascript,0
+membrane,95
+aspect,8154
+test bed,83
+unique visitors,45
+greedy method,119
+energy minimization,18
+cloud,1654
+integer sequence,9
+interface metaphor,3
+control flow graph,41
+crawler,2452
+vaccination,56
+termination,1035
+personalisation,74
+formal power series,1
+power series,13
+weakest precondition,0
+philosophy,170
+humanities,19
+water waves,0
+camera calibration,1
+serializability,9
+argument,1777
+constructivist learning,2
+semantic interpretation,48
+terms,22313
+interaction effects,45
+democracy,15
+music industry,23
+proof theory,15
+views,9691
+rekeying,92
+group size,242
+present value,11
+measure,35474
+life span,58
+interface,7367
+concept mining,5
+graph drawing,18
+android os,1
+complex systems,111
+interface definition language,3
+bloom filters,76
+modular function,257
+area under the curve,79
+rdbms,3
+data web,8
+utility theory,18
+expected utility theory,4
+consumer surplus,27
+aggregate demand,17
+library and information science,5
+pipelining,53
+network delay,50
+dsn,73
+voice over internet protocol,0
+radio,819
+uddi,117
+externalities,104
+management studies,0
+stop words,461
+geographic information systems,10
+feedback control,23
+sla,6613
+structured query language,22
+synchronized multimedia integration language,0
+second order cone programming,8
+stream,11852
+markup languages,63
+web usability,12
+virtual reality,20
+strong consistency,20
+physical design,1
+stress testing,6
+identity and access management,1
+networked control system,0
+adversarial information retrieval,3
+scripting languages,50
+rights,584
+widget,671
+micropayments,2
+key exchange,14
+platform,4605
+public key encryption,10
+interactivity,107
+interactive media,5
+object composition,0
+cache coherence,5
+search engine architecture,24
+exploratory study,35
+stratum,240
+compactness,302
+conceptual design,15
+formative evaluation,2
+human cognition,12
+learning community,92
+relatedness,1181
+multicasting,23
+domain name system,7
+wai,1828
+data migration,7
+configuration management,59
+tf idf,477
+named graphs,59
+composition,6111
+number theory,6
+explicit knowledge,30
+context sensitive,167
+api,5370
+named entity disambiguation,68
+path expressions,129
+automatic speech recognition,18
+rural,233
+literacy,42
+digital repository,4
+ajax,43
+static program analysis,7
+rank,41707
+japanese,32
+kanji,3
+classical logic,23
+url redirection,0
+soft error,32
+value,67186
+globalization,22
+brand,1791
+requirements,3178
+requirement engineering,1
+process scheduling,1
+cpc,61
+multicore processors,6
+programming models,25
+critical point,50
+web crawlers,62
+indigenous,30
+traditional knowledge,3
+indigenous knowledge,0
+instructional design,13
+software process,6
+server,13803
+soa,199
+face detection,63
+radial tree,13
+kolmogorov smirnov,3
+log normal,114
+thread,3042
+formal verification,10
+formal specification,30
+decision tree algorithm,92
+geographic location,272
+ranking svm,7
+virtual learning,5
+multimodal interaction,9
+maximum flow algorithm,41
+robots txt,0
+dynamic typing,8
+semantic grid,2
+granger causality test,0
+android,84
+entry barrier,9
+augmented reality,18
+speech detection,7
+laser scanning,2
+3d,267
+zeus,4
+anaglyph,6
+amazon,403
+resource pooling,0
+dtd,58
+substring search,15
+profiling,495
+mosaic,29
+distributed file system,33
+network models,105
+point processes,52
+intrusion prevention,2
+control flow analysis,5
+service computing,1
+non functional requirement,13
+communication system,29
+group dynamics,21
+group dynamic,22
+search spam,1
+keys,1245
+subtyping,27
+web crawl,382
+rewriting,782
+sparql query,33
+communications,892
+containment,419
+full text search,146
+branching process,26
+java,539
+expressiveness,265
+document type definition,7
+uri,31947
+tuple space,1
+denial of service,71
+associativity,25
+transference,13
+factors,6362
+vertical,2289
+cohesion,223
+competitive strategy,0
+hyperspace,21
+uniform resource identifier,2
+social sciences,105
+security architecture,4
+cascade style sheet,6
+nature,6379
+indus,1721
+meaning,6215
+universal networking language,0
+biclique,219
+completion,1363
+probit model,19
+authorizations,9
+simple object access protocol,1
+domain engineering,14
+compositional semantics,9
+fault isolation,1
+scheduling algorithms,39
+hubs and authorities,43
+public relations,17
+modular form,1
+concept design,1
+dynamic topic model,53
+sequential hypothesis testing,3
+balance,4621
+coverage,4103
+model based reasoning,2
+rational agent,7
+shapley value,3
+universal algebra,0
+generation,5259
+probing,175
+human memory,8
+empirical research,17
+blended learning,8
+learning communities,29
+open learning,6
+ip multimedia subsystem,0
+adaptability,91
+upper and lower bounds,83
+animation,289
+self assembly,3
+artificial ants,11
+autonomous agent,22
+language acquisition,3
+hoeffding s inequality,0
+pointwise mutual information,52
+point location,17
+invisible web,2
+semantic processing,11
+control,9457
+coding,3831
+data center design,4
+ir,259756
+emotional expression,15
+emotions,398
+expression,6708
+meta search engines,30
+freebase,70
+traveling salesman,14
+preference aggregation,17
+oracle,861
+evaluations,1399
+assessment,1605
+core competencies,1
+internal medicine,5
+knowledge management system,26
+unified modeling language,0
+attribute grammar,20
+uml,85
+model checking,54
+monte carlo algorithm,17
+modeling techniques,104
+automated theorem proving,1
+compatibility,461
+xhtml,307
+xforms,23
+scoring rule,16
+hash table,660
+tree structures,91
+video conferencing,13
+video conference,4
+mobile interaction,6
+consistency model,28
+service architecture,36
+usability testing,16
+contextual design,1
+geospatial,237
+rate of return,30
+survey sampling,8
+traceroute,56
+social change,8
+sensor,3386
+web of things,3
+delayed binding,2
+isolation,576
+encapsulation,42
+tree pruning,19
+tracing,205
+assembly,160
+gis,7073
+semantic search engine,42
+social semantic web,5
+distribution fitting,4
+pageviews,86
+ecology,83
+open architecture,54
+virtual screening,1
+simplex method,7
+simplex algorithm,18
+velocity,321
+cache invalidation,10
+synchronous communication,148
+ict,63673
+business process management,12
+business process modeling,13
+information communication technology,0
+graph conductance,6
+sequential search,32
+pub sub,0
+aliasing,118
+templates,1784
+boilerplate,83
+network simulator,5
+ergonomics,4
+communication technology,16
+layered architecture,12
+model view controller,4
+graphic design,17
+layout,2005
+selector,422
+multicore,89
+intelligent design,2
+internet telephony,1
+structural dynamics,22
+fuzzy control,1
+process engineering,1
+graphical user interface,107
+computer applications,12
+portability,64
+motivations,352
+social psychology,70
+matrices,4527
+sniffing,38
+social intelligence,5
+topography,17
+durable good,3
+sharing,3742
+stable matching,36
+differentiated service,7
+diameter,925
+hidden variable,405
+heat diffusion,47
+thumbnails,100
+web spider,3
+error handling,16
+game development,8
+scene graph,13
+common gateway interface,1
+zipfs law,2
+approximate,8381
+population density,50
+communication systems,21
+version control,62
+software configuration management,6
+network science,50
+experience design,4
+financial markets,30
+iterative design,3
+task analysis,13
+formal methods,10
+creativity,43
+dissemination,333
+web servers,206
+domestication,21
+gleason s theorem,0
+context effect,3
+cache coherency,9
+morphological analysis,26
+user agents,62
+privacy policies,93
+convex polytope,2
+choreography,201
+test coverage,9
+binary classifier,274
+canopy,105
+perceptrons,17
+search engine marketing,2
+deceptive advertising,0
+form factor,34
+sql injection,1
+scanner,152
+input device,43
+further education,1
+latent variables,619
+black box testing,4
+web application testing,2
+radio resource management,6
+traffic shaping,13
+state machine,158
+longest path,35
+longest path problem,1
+culture,581
+popular culture,7
+ims,4643
+marc,178
+probability generating function,1
+network metrics,26
+plasticity,9
+information design,7
+java card,0
+scripts,1056
+tdma,2
+access network,41
+messaging,458
+cdpd,1
+cache,6200
+volume of distribution,0
+glycoproteomics,17
+datalog,107
+particle physics,20
+lifecycle management,26
+probability matrix,152
+transition,4908
+information services,52
+multi modal,243
+transformations,916
+redirect,995
+directionality,108
+complete bipartite graph,21
+concept,19766
+honeypots,105
+bitmap index,93
+bitmap,340
+transport protocol,46
+publish,6106
+lens,582
+sort,5780
+customization,222
+incomplete market,9
+incomplete markets,4
+derivatives,375
+sequential monte carlo,2
+domain specific language,36
+model based design,2
+upnp,2
+spreading activation theory,5
+unified process,15
+gossip protocol,4
+web intelligence,0
+intelligent agents,33
+social networking,875
+link farms,57
+rational function,3
+mutation testing,44
+fault model,39
+component based software engineering,0
+pmi,205
+digital printing,1
+wireless networking,10
+camera phone,4
+finite state automata,16
+herd behavior,0
+dynamics,3184
+allocative efficiency,2
+cheap talk,9
+failure rate,31
+matrix computation,49
+markov property,1
+out of band,19
+requirements analysis,10
+services oriented architecture,1
+gloss,416
+lexical semantics,2
+cascading style sheet,15
+frames,814
+workflow management,39
+iterative method,123
+integral equation,8
+component based design,1
+pseudocodes,4
+power optimization,1
+mesh network,15
+process migration,8
+virtualization,50
+linguistic,1498
+interaction information,44
+really simple syndication,1
+geo tagging,10
+push technology,2
+network flows,16
+degree,12625
+negotiation,722
+architectural pattern,7
+winner take all,14
+winner takes all,20
+mathematical models,52
+software integration,1
+pip,1312
+economic growth,9
+social contract,4
+graph partition,689
+ah,12215
+broadband,144
+optical fiber,1
+unicode,11
+feedback loop,55
+rural area,53
+interviews,278
+dependability,15
+end users,613
+session fixation,27
+mash up,47
+client side programming,2
+short message service,2
+base station,40
+http server,4
+long tail theory,2
+reflected brownian motion,0
+bidding,1253
+spatial variation,31
+vip,33
+economic value,26
+advanced encryption standard,0
+rpc,36
+loose coupling,63
+data validation,12
+cryptographic hash function,7
+password security,0
+merkle hash tree,0
+sentry,64
+soa service oriented architecture,0
+retail industry,21
+ebxml,6
+simple module,2
+compiler,333
+interpreter,149
+password authentication,1
+measurements,2017
+head of line blocking,3
+stream control transmission protocol,0
+sctp,2
+computer files,0
+interfaces,1908
+course management system,6
+social behaviour,6
+revenue,2571
+chinese,103
+english,155
+composite,1502
+structural engineering,2
+field of view,11
+detectors,330
+consumers,1049
+abstract syntax tree,40
+network coding,35
+overlays,50
+mobile ad hoc network,6
+orchestration,91
+rss aggregator,0
+affordances,63
+ai,350387
+decentralization,17
+agricultural production,4
+genetically modified crops,0
+genetically modified,8
+income distribution,6
+political economy,2
+trade barrier,0
+trade barriers,0
+productivity growth,1
+inductive inference,10
+inductive reasoning,5
+application servers,88
+probability of error,47
+link farming,50
+eclipse,52
+mvc,1
+rating scale,80
+common knowledge,59
+data base,389
+client side,848
+syntactic analysis,20
+quantum algebra,0
+theta function,3
+body of knowledge,10
+cognitive load,35
+autonomous system,44
+generalized assignment problem,4
+routing protocols,6
+elliptic curve cryptography,0
+rich internet applications,3
+computer aided software engineering,2
+location,17426
+axiomatic approach,30
+native speaker,47
+huffman codes,0
+perfect hash function,17
+minimal perfect hashing,1
+robots exclusion protocol,4
+intelligence quotient,0
+social contagion,38
+stochastic programming,6
+color,4165
+rdfa,20
+halo effect,4
+inverted pendulum,0
+business modeling,11
+partial evaluation,10
+completeness,684
+biological sciences,12
+gaussian process regression,3
+entertainment,412
+code optimization,5
+haystack,31
+consensus problem,5
+communication model,77
+asynchronous communications,5
+3d animation,1
+dsl,64
+relax ng,1
+command line interface,2
+schematron,10
+mixed strategy,35
+graph transformation,44
+clutter,194
+mirroring,43
+computer programming,16
+regular expressions,318
+character sets,8
+network theory,23
+inference rules,64
+work in progress,42
+type of service,28
+videoconferencing,18
+simulated annealing algorithm,9
+chipsets,9
+language policy,0
+standardisation,11
+linear,15437
+cognitive style,31
+cognitive styles,21
+mfm,10
+enterprise data management,3
+signaling theory,0
+public good,27
+public goods,20
+self insurance,39
+intermediate representation,31
+fisher information,1
+fisher information matrix,0
+convex,3120
+action research,9
