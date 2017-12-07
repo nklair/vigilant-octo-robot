@@ -1,6 +1,7 @@
 import task1
 import task4
 import task6
+import task7
 
 pid_to_txt = {}
 new_dict = {}
@@ -99,6 +100,8 @@ if __name__ == '__main__':
             task4.task4(aid_to_author_name, pid_to_author_sequence)
         elif choice == 6:
             task6.task6(pid_to_title_year_conf, pid_to_keyword, pid_to_author_sequence)
+        elif choice == 7:
+            task7.task7(pid_to_title_year_conf, pid_to_keyword, pid_to_author_sequence)
         elif choice == 8:
             break
         else:
